@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="a1fa1d2f-c335-4902-898c-4228c3c07d52">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0598f999-5902-4695-9485-f20c429103d1" />
+        <field name="Name" type="NameTableFieldDefinition" value="WPN_Halberd_Kale" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ffb41af4-0ff9-4d46-b930-208a05bb049a" />
+        <field name="ValueUUID" type="GuidObjectTableFieldDefinition" value="d24c441f-7ebe-4229-8522-cf34c257ff20" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="GameSize" type="EnumerationTableFieldDefinition" value="Large" enumeration_type_name="ObjectSize" version="1" />
+        <field name="DefaultBoosts" type="StringTableFieldDefinition" value="WeaponEnchantment(3);WeaponProperty(Magical);WeaponDamage(1d4, Bludgeoning);WeaponDamage(2,Slashing);WeaponDamage(1d8,Lightning)" />
+        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="ImprovedCritical" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="1" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="9c745c02-dcec-423b-a5d5-f678a8d52104" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="afc508da-dd39-4821-b0af-9955e5e2f087">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8e9e6a50-b12d-49ab-85c3-0d3905326a9c" />
+        <field name="Name" type="NameTableFieldDefinition" value="INTERRUPT_STONEENDURANCE_HIT" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f2284b28-f8b1-4f51-abb7-55692e6cec0f" />
+        <field name="StatusEffect" type="GuidObjectTableFieldDefinition" value="8aa07433-6459-49fe-a49d-71913ade186d" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

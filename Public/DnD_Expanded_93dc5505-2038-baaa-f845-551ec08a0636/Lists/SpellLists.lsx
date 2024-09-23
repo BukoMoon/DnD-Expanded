@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Fire Giant 1"/>
+                    <attribute id="Spells" type="LSString" value="Target_IgniteBlade"/>
+                    <attribute id="UUID" type="guid" value="1e020f30-b157-4fb1-8cb6-4770ca50c10b"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Clloud Giant 1"/>
+                    <attribute id="Spells" type="LSString" value="Zone_Gust"/>
+                    <attribute id="UUID" type="guid" value="20a216ed-9f32-401e-b2ce-8dca280749a2"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cloud Giant 3"/>
+                    <attribute id="Spells" type="LSString" value="Shout_FeatherFall"/>
+                    <attribute id="UUID" type="guid" value="a18b3e8f-3af8-4d9f-8ab8-f770dfee8afc"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cloud Giant 5"/>
+                    <attribute id="Spells" type="LSString" value="Target_FogCloud_Giant"/>
+                    <attribute id="UUID" type="guid" value="89470666-0199-4599-8033-a0fffa14212e"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Frost Giant 1"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_RayOfFrost"/>
+                    <attribute id="UUID" type="guid" value="1757635c-bbba-41de-aecd-523f74532723"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Frost Giant 3"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_IceKnife_Giant"/>
+                    <attribute id="UUID" type="guid" value="8ed8d270-90d6-445e-9de5-224a90f72f2c"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Storm Giant 1"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_StormBolt"/>
+                    <attribute id="UUID" type="guid" value="75ac4c35-6b8b-44df-b967-dffc41c52114"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Goblin 1 "/>
+                    <attribute id="Spells" type="LSString" value="Shout_Disengage_Goblin"/>
+                    <attribute id="UUID" type="guid" value="1e9859e2-fe67-4cb8-9eeb-de39e2f8622e"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Goliath 5"/>
+                    <attribute id="Spells" type="LSString" value="Shout_LargeForm"/>
+                    <attribute id="UUID" type="guid" value="14009cdd-1ff7-49ec-b415-4cc99d4ea10c"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Cloud Jaunt"/>
+                    <attribute id="Spells" type="LSString" value="Target_CloudJaunt"/>
+                    <attribute id="UUID" type="guid" value="c4a3d6d8-a009-48ac-926e-1ec233314bed"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,8 @@
+treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+new treasuretable "Gnome_Peddler"
+CanMerge 1
+new subtable "1,1"
+object category "T_Gold_Trader_Wealthy",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Halberd_Kale",1,0,0,0,0,0,0,1
+object category "T_Alchemy_Potion_Healing",1,0,0,0,0,0,0,0

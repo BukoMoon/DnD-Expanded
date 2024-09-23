@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="a8098c1a-f86e-11da-bd1a-00112444be1e">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="59eb6d96-e9eb-4a61-b70d-570151d64fc9" />
+        <field name="Name" type="NameTableFieldDefinition" value="GnomePeddler" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="84ba60e1-0b47-4f7a-8c73-a175831e1b50" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="20" />
+        <field name="Strength" type="IntegerTableFieldDefinition" value="8" />
+        <field name="Dexterity" type="IntegerTableFieldDefinition" value="18" />
+        <field name="Constitution" type="IntegerTableFieldDefinition" value="12" />
+        <field name="Intelligence" type="IntegerTableFieldDefinition" value="14" />
+        <field name="Charisma" type="IntegerTableFieldDefinition" value="38" />
+        <field name="Armor" type="IntegerTableFieldDefinition" value="50" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="12" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="50" />
+        <field name="StepsType" type="EnumerationTableFieldDefinition" value="Leather" enumeration_type_name="StepsType" version="1" />
+        <field name="Class" type="StringTableFieldDefinition" value="Warlock" />
+        <field name="Passives" type="StringTableFieldDefinition" value="GnomeCunning" />
+        <field name="SpellCastingAbility" type="EnumerationTableFieldDefinition" value="Charisma" enumeration_type_name="Ability" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fcf05a17-95dd-4ed9-b6ed-d17e59ded453" />
+        <field name="Name" type="NameTableFieldDefinition" value="_Half_Giant" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="7f03d35b-37bb-4268-8017-e721af97cff2" />
+        <field name="Strength" type="IntegerTableFieldDefinition" value="11" />
+        <field name="Constitution" type="IntegerTableFieldDefinition" value="11" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="200" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="57fbff40-69dd-4b13-b794-45a8ce5b268e" />
+        <field name="Name" type="NameTableFieldDefinition" value="HeroHalfGiantMale" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="5d3c7d38-4f9a-4581-9dc4-2a7e62c38f7b" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="200" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="771dda07-3a1f-40bd-b7d8-ac95bc5ce768" />
+        <field name="Name" type="NameTableFieldDefinition" value="HeroHalfGiantFemale" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="5d3c7d38-4f9a-4581-9dc4-2a7e62c38f7b" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="200" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="65de33a5-fde2-4d38-8be4-d35d1636be6e" />
+        <field name="Name" type="NameTableFieldDefinition" value="HeroGoblinMale" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="5d3c7d38-4f9a-4581-9dc4-2a7e62c38f7b" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="35" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="318d1032-84bc-45cc-a452-06019443c1d8" />
+        <field name="Name" type="NameTableFieldDefinition" value="HeroGoblinFemale" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="5d3c7d38-4f9a-4581-9dc4-2a7e62c38f7b" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="35" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e70a2428-0f73-47b7-8768-1604d66d844e" />
+        <field name="Name" type="NameTableFieldDefinition" value="HeroGoliathMale" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="5d3c7d38-4f9a-4581-9dc4-2a7e62c38f7b" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="130" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9167ee6f-bda9-4b9e-bc09-9f0343eace84" />
+        <field name="Name" type="NameTableFieldDefinition" value="HeroGoliathFemale" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="5d3c7d38-4f9a-4581-9dc4-2a7e62c38f7b" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="130" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e4012e18-6a6b-4f40-aefa-c83b078c136c">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="848893f1-c239-4035-90a4-6207be1505d8" />
+        <field name="Name" type="NameTableFieldDefinition" value="Gnome_Peddler" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_Gold_Trader_Wealthy" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="848893f1-c239-4035-90a4-6207be1505d8" />
+        <field name="UUID" type="IdTableFieldDefinition" value="bb239ce5-3e7d-4f68-bac8-f9f8d13245f0" />
+        <field name="Name" type="NameTableFieldDefinition" value="Gnome_Peddler_substat" />
+        <field name="CanMerge" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_WPN_Halberd_Kale" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="848893f1-c239-4035-90a4-6207be1505d8" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6c18e4e5-1e73-4bd1-bee9-21afa140edbf" />
+        <field name="Name" type="NameTableFieldDefinition" value="848893f1-c239-4035-90a4-6207be1505d8_substat_0" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="T_Alchemy_Potion_Healing" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

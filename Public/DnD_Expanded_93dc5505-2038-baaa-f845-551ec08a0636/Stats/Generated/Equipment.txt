@@ -1,0 +1,4 @@
+new equipment "EQ_Underwear_Goblins"
+add equipmentgroup
+add equipment entry "ARM_Underwear_HalfOrcs"
+

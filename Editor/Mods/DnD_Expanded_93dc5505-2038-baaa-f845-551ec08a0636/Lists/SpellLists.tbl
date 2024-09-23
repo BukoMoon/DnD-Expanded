@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3f5063e7-e02b-4849-a503-9ba01dc6e2e6">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1e020f30-b157-4fb1-8cb6-4770ca50c10b" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fire Giant 1" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_IgniteBlade" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="20a216ed-9f32-401e-b2ce-8dca280749a2" />
+        <field name="Name" type="NameTableFieldDefinition" value="Clloud Giant 1" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Zone_Gust" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a18b3e8f-3af8-4d9f-8ab8-f770dfee8afc" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cloud Giant 3" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_FeatherFall" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="89470666-0199-4599-8033-a0fffa14212e" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cloud Giant 5" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_FogCloud_Giant" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1757635c-bbba-41de-aecd-523f74532723" />
+        <field name="Name" type="NameTableFieldDefinition" value="Frost Giant 1" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Projectile_RayOfFrost" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8ed8d270-90d6-445e-9de5-224a90f72f2c" />
+        <field name="Name" type="NameTableFieldDefinition" value="Frost Giant 3" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Projectile_IceKnife_Giant" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="75ac4c35-6b8b-44df-b967-dffc41c52114" />
+        <field name="Name" type="NameTableFieldDefinition" value="Storm Giant 1" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Projectile_StormBolt" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1e9859e2-fe67-4cb8-9eeb-de39e2f8622e" />
+        <field name="Name" type="NameTableFieldDefinition" value="Goblin 1 " />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_Disengage_Goblin" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="14009cdd-1ff7-49ec-b415-4cc99d4ea10c" />
+        <field name="Name" type="NameTableFieldDefinition" value="Goliath 5" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Shout_LargeForm" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c4a3d6d8-a009-48ac-926e-1ec233314bed" />
+        <field name="Name" type="NameTableFieldDefinition" value="Cloud Jaunt" />
+        <field name="Spells" type="StringTableFieldDefinition" value="Target_CloudJaunt" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

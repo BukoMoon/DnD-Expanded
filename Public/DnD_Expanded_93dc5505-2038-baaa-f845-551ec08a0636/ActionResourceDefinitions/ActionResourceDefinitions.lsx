@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="hef1fa001g3460g2889g5f57g38c8eb68b77b" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb1efcbdag7dc1g9367g4f13gc63544bd770f" version="1"/>
+                    <attribute id="IsSpellResource" type="bool" value="true"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="AncestralBoon"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="f3881182-64bc-415f-ad18-b0ac8b09d17b"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

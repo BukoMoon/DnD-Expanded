@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3e76b74c-a5ae-4268-944a-aa9c31e2185e">
+  <stat_objects>
+    <stat_object color="#FF0000FF" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="894aae71-88ed-4407-9209-c15fdc76495a" />
+        <field name="Name" type="NameTableFieldDefinition" value="Race Passives" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="318b0bd9-a3cb-4883-acf9-9e607651ba17" />
+        <field name="Name" type="NameTableFieldDefinition" value="GlacialNative" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9272b265gff87gaa3fg9115gd2e3459647e5" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hab5c13abg86d7g4f4dg58c1g2d49be10fa3f" version="4" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_Mobile_DashAcrossDifficultTerrain" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="BoostConditions" type="StringTableFieldDefinition" value="IF(Surface('SurfaceBloodFrozen') or Surface('SurfaceWaterFrozen'))" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="StatusImmunity(SG_DifficultTerrain)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a3dabfa0-9d2f-4c5c-97a5-6f74ae710a55" />
+        <field name="Name" type="NameTableFieldDefinition" value="StoneDefense" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h23954f05g4a0dg8e22g0d1fgdce608b9fffd" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h872d374ageeebg47d2g27e5g35a94d0ede52" version="2" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="1d4;Dexterity Modifier" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_Monk_DeflectMissile" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(not HasStatus('SG_Polymorph_BeastShape')):UnlockInterrupt(Interrupt_StoneDefense)" />
+        <field name="TooltipUseCosts" type="StringTableFieldDefinition" value="ReactionActionPoint:1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f22742d2-67df-4bd5-b3bd-5a912c35b2c5" />
+        <field name="Name" type="NameTableFieldDefinition" value="UnarmouredDefence_HillGiant" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h355ecf8age760g0891g5082g757021009c6a" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hdb80f122g4ee8g33d3g7b09g5cf113aea2dc" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_UnarmoredDefense_Barbarian" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="BoostContext" type="EnumerationListTableFieldDefinition" value="OnEquip;OnCreate" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="BoostConditions" type="StringTableFieldDefinition" value="not WearingArmor(context.Source) and not HasShieldEquipped(context.Source) and (not HasPassive('UnarmouredDefense_Barbarian',context.Source) or not HasPassive('UnarmoredDefense_Monk'))" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ACOverrideFormula(10,true,Dexterity,Constitution)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="49b41db8-17f0-4c54-9352-7aab47b67f4d" />
+        <field name="Name" type="NameTableFieldDefinition" value="Grit" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he82ac989g184bg1388g757cg820a44240a47" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h270dfedeg5d85gf248g30c5g129e950648b1" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_UnarmoredDefense_Barbarian" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="BoostContext" type="EnumerationListTableFieldDefinition" value="OnEquip;OnCreate" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="BoostConditions" type="StringTableFieldDefinition" value="not WearingArmor(context.Source) and not HasShieldEquipped(context.Source) and (not HasPassive('UnarmouredDefense_Barbarian',context.Source) or not HasPassive('UnarmoredDefense_Monk'))" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ACOverrideFormula(11,true,Dexterity)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="86f5c35e-84bc-4f31-84e7-204928a5d95a" />
+        <field name="Name" type="NameTableFieldDefinition" value="Stone_Endurance" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf475694egda37gc0fdg2374gb79993ffabd7" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h8ea9c643g0fecgb7feg37c9g801a675094eb" version="1" />
+        <field name="TooltipUseCosts" type="StringTableFieldDefinition" value="ReactionActionPoint:1;AncestralBoon:1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_Monk_DeflectMissile" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_StoneEndurance)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4b46746e-e85f-4336-81dd-89ec7111de30" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fire_Burn" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hef9082bcg6773gcbcagc87bg75d4ef9bf1e4" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h38a8b70cgf781gc827g0f69g3413707b36dd" version="2" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(1d10,Fire)" />
+        <field name="TooltipUseCosts" type="StringTableFieldDefinition" value="ReactionActionPoint:1;AncestralBoon:1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_HellishRebuke" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_FireBurn)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="13b64d43-d116-469c-bc8f-2034fd13a89d" />
+        <field name="Name" type="NameTableFieldDefinition" value="Frost_Chill" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h84592e70g1d40gebe9g9881g379899eae7ae" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb47d18f4g599bgdd13gc254g83e9e8ad0a4c" version="3" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(1d6,Cold);Distance(3)" />
+        <field name="TooltipUseCosts" type="StringTableFieldDefinition" value="ReactionActionPoint:1;AncestralBoon:1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Evocation_RayOfFrost" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_FrostChill)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c043fed8-dc40-49b4-8820-09029af80636" />
+        <field name="Name" type="NameTableFieldDefinition" value="Hill_Tumble" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h262d73c7g2533gc00bg1da2g16868dd46559" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h848be098g33e9g31adgf7b3gac671c19ce07" version="1" />
+        <field name="TooltipUseCosts" type="StringTableFieldDefinition" value="ReactionActionPoint:1;AncestralBoon:1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Status_Prone" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_HillTumble)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8c8495d0-8aee-48f8-8614-55038db67b85" />
+        <field name="Name" type="NameTableFieldDefinition" value="Storm_Thunder" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6520a12cgd411g3b44gb3e2g8ebe291f1702" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h8f7215f0g9389g5397g2a12ge8cfec406ba4" version="1" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="Distance(18);DealDamage(1d8,Thunder)" />
+        <field name="TooltipUseCosts" type="StringTableFieldDefinition" value="ReactionActionPoint:1;AncestralBoon:1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Evocation_ChromaticOrb_Thunder" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockInterrupt(Interrupt_StormThunder)" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF0000FF" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="92634049-7bd1-4015-815d-6961f08f5698" />
+        <field name="Name" type="NameTableFieldDefinition" value="BACKGROUNDS" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="78740d83-6dd5-46ba-ba14-015631abb5d0" />
+        <field name="Name" type="NameTableFieldDefinition" value="Background_Giant_Foundling" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hcf906256gfc17ge5e1ga7c7g7c83c42fbc42" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf9f43f6ag2299g8d15g4451g50d6601178cc" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Intimidation);ProficiencyBonus(Skill,Survival)" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

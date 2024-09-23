@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MultiEffectInfos UUID="5c012ba0-8ff5-4e64-88a2-95ca0b4ddf00" OwnerUUID="809ccef5-bd5f-48aa-afaf-80225b016ae2" Name="Test_Paladin">
+  <EffectInfo UUID="5ebd6ac0-8c7d-4933-88d9-4cc710bb9d14" EffectResourceGuid="c9a157c9-2f6a-78d1-8d19-bb9b64b938cc" DetachSource="false" DetachTarget="false" KeepRotation="false" UseOrientDirection="false" UseDistance="false" UseScaleOverride="false" KeepScale="false" MainHand="false" OffHand="false" MinDistance="0" MaxDistance="0" BindSourceTo="SourceEntity" BindTargetTo="TargetEntity" Pivot="Target" Enabled="true" DamageType="None" VerbalIntent="None" TargetBone="Dummy_Root" SourceCheckEquipmentTagConditions="true" TargetCheckEquipmentTagConditions="true" />
+</MultiEffectInfos>

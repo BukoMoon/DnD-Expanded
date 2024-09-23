@@ -1,0 +1,6 @@
+new entry "INTERRUPT_STONEENDURANCE_HIT"
+type "StatusData"
+data "StatusType" "EFFECT"
+using "_PASSIVES"
+data "StatusEffect" "8aa07433-6459-49fe-a49d-71913ade186d"
+

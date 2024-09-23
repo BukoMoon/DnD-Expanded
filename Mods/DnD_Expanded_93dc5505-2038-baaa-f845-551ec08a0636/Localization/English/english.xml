@@ -1,0 +1,554 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h0516ab33g6388ge5acg1b06g07baa443b840" version="1">Half Giant</content>
+  <content contentuid="h9d6851f0g0f99g4577gb700gf2a7eca4ab90" version="1">Half-giants are widely known for their physical abilities, and for their ability to deal heavy damage to foes during combat, but they are typically shunned by many people for their hulking figures and often simplistic views on life and goals.</content>
+  <content contentuid="h9c89a249g1ddfged84g5f1ag33777f971dff" version="1">Fire Giant</content>
+  <content contentuid="h4530fb1fg5dceg5343g8d54g27a42fb56931" version="1">Half fire giants have dull skin and broad torsos. Their hair tends toward fiery colors like ginger and dirty blonde.</content>
+  <content contentuid="h6be47aeag415dgdb2bgfa08gb595b35f4713" version="1">Frost Giant</content>
+  <content contentuid="hbe06417dg1f77ged25gb01cgc68f0a724339" version="1">Half frost giants' skin has a bluish tinge, reflecting their giant parent's. They have very long hair, especially on their face in males.</content>
+  <content contentuid="h76d7a1b1gc692g9f06g7cfeg29cc09a5c7a4" version="1">Stone Giant</content>
+  <content contentuid="h5d384034gb386g6245g6ca0gf92477ffd112" version="1">Half stone giants are very slender-built, with thin, rectangular faces. Their hair is very short, and even females usually look almost bald.</content>
+  <content contentuid="he6bc2baeg3163gb2adg0ffbg340bf749e3fe" version="1">Storm Giant</content>
+  <content contentuid="h56d204c1g2549g6c12g39a8g344779b9c91d" version="1">Half storm giants are the largest and strongest of the half giants, just as their mighty parents are among the giants. They have dark-colored hair and emerald eyes. Their skin has a purplish tint that may be occasionally very bold.</content>
+  <content contentuid="h100881dcg8304g79c5g14e7gbc47683f2bc3" version="1">Hill Giant</content>
+  <content contentuid="h1e3c96eag127bg9227gda63g938b61889cb9" version="1">Half hill giants are the smallest and least muscular of the half giants, just as their larger parents are. They have droopy facial features and very round stomachs. Their limbs tend to be short compared to their bodies.</content>
+  <content contentuid="h3a8136b4g1c0bg68b3g766agcc74f0689fd1" version="1">Cloud Giant</content>
+  <content contentuid="h9d385cbfg0c5dg4bb6g732dg66c0c66772f6" version="1">Half cloud giants stand with an imposing physique, with statuesque facial features. They have pale skin and hair.</content>
+  <content contentuid="h477b6e66g06ecg808cgdb62gf3847b297c7c" version="2">Fireborn</content>
+  <content contentuid="hf9e63914ge8f2ga75ag20afgefc99ee727db" version="4">You are &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to Fire damage. Additionally, you can naturally &lt;LSTag Tooltip="Target_IgniteBlade"&gt;ignite you weapon.&lt;/LSTag&gt;</content>
+  <content contentuid="hfe44a7a7gc24ega0cdge89cg4a85d4cd685e" version="1">Frostborn</content>
+  <content contentuid="h7be4d12eg0920ge33bg7e45g89d49c6c519f" version="1">You are &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to Cold damage.</content>
+  <content contentuid="h8d0af7e5g4c8dg80f0g993cg2f041aeb8112" version="1">Unarmoured Defense</content>
+  <content contentuid="ha5d9d9d2gc5a3g7499gb24dg3d8ba8d8325b" version="2">While not wearing armour, you add your Constitution &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; to your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;</content>
+  <content contentuid="h582eedf0g8504g563eg87c0g9f3514bed349" version="1">Fire Giant</content>
+  <content contentuid="hfd0d30bbge3c4g340eg2326gdca80288232c" version="1">Half fire giants have dull skin and broad torsos. Their hair tends toward fiery colors like ginger and dirty blonde.</content>
+  <content contentuid="he0d955c9g411egccf5g35a7g7bd20b12f684" version="1">Stormborn</content>
+  <content contentuid="hec7d171cgfff9g7a4bg0bf8g0dbc0050eeeb" version="1">You are &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to Lightning damage.</content>
+  <content contentuid="h9272b265gff87gaa3fg9115gd2e3459647e5" version="2">Glacial Native</content>
+  <content contentuid="hab5c13abg86d7g4f4dg58c1g2d49be10fa3f" version="4">You are an expert at moving through icy terrain, &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Icy Terrain&lt;/LSTag&gt; doesn't slow you down.</content>
+  <content contentuid="h527c57c0g2f29g59ebg8293g63b390ef192f" version="1">Half Giant</content>
+  <content contentuid="h162818ecg050bg8ebeg368fg0f51e15b8e7f" version="1">"Simple, deliberate, stubborn, and hulking." Half-giants are widely known for their physical abilities, and for their ability to deal heavy damage to foes during combat, but they are typically shunned by many people for their hulking figures and often simplistic views on life and goals.</content>
+  <content contentuid="h7f93af72gae1cgd64cg3042g1928c7ab811e" version="1">Cloud Giant Magic</content>
+  <content contentuid="hfbaade8fg7089ga96ag1f81g9b095a1299c3" version="1">Starting from 3rd level, you know the spell &lt;LSTag Tooltip="Shout_FeatherFall"&gt;Feather Fall&lt;/LSTag&gt;. Starting from 5th level, you know the spell &lt;LSTag Tooltip="Target_FogCloud"&gt;Fog.&lt;/LSTag&gt; Charisma is your spellcasting ability for these spells.</content>
+  <content contentuid="h0da7265dg2c09g8e6agda78gf46babc2f1f7" version="1">Frost Giant Magic</content>
+  <content contentuid="h6ef8cfb0g4f3fgaf21g0dc5g96031888be08" version="1">You know the &lt;LSTag Tooltip="Projectile_RayOfFrost"&gt;Ray of Frost&lt;/LSTag&gt; cantrip and can cast it at will. Starting from 3rd level, you know the spell &lt;LSTag Tooltip="Projectile_IceKnife"&gt;Ice Knife&lt;/LSTag&gt;. Wisdom is your spellcasting ability for these spells.</content>
+  <content contentuid="hab5f57dcg6a73g1298ga11cg035f419b7df5" version="1">Stone Camouflage</content>
+  <content contentuid="hcd179e96g020cg583egc372g8a63045f33f5" version="1">hen you make a Dexterity (Stealth) check to hide in rocky terrain, you are considered proficient in the Stealth skill.</content>
+  <content contentuid="hcdc278c8g87d5g6e78g0036g70ba6c9b2e6d" version="1">Storm Bolt</content>
+  <content contentuid="h10e36eccg4c95g0936gcde9ge43811f8bdd4" version="2">You gain access to &lt;LSTag Tooltip="Projectile_StormBolt"&gt;Storm Bolr&lt;/LSTag&gt;. Intelligence is your spellcasting ability for this spell.</content>
+  <content contentuid="hae8b6a7eg7fa9gc069g36a6g7f29b662d4b4" version="1">Head 1</content>
+  <content contentuid="h61af0addg5ad9g9847g403dg0f3588cfce07" version="1">Head 2</content>
+  <content contentuid="hed8c31a2gf9ccgd2efge74bg1703140b4d5a" version="1">Head 3</content>
+  <content contentuid="h92add3ceg4482g2868g2e27g4af9fc0d35ba" version="1">Head 5</content>
+  <content contentuid="ha3faffcegd532gde9fgff83g4237ddf65b4f" version="1">Head 4</content>
+  <content contentuid="hb3a856dbg8d09g7d32g8c5bgc4ea5ca3f5e0" version="1">Head 6</content>
+  <content contentuid="h46bdaf02g5273gb503g7db3g21208c740f90" version="1">Head 7</content>
+  <content contentuid="h2d050539gcd85g04ccgfc1fg4ba58f8d1ea9" version="1">Head 1</content>
+  <content contentuid="h4c37c81ag83ccgce22g2293g4fd2a4d41368" version="1">Head 2</content>
+  <content contentuid="he7be34fbgebdeg1200gaea3gd358fa4c00bf" version="1">Head 3</content>
+  <content contentuid="h6da44258g3e33g967bgcac7g9903ed3ad7f5" version="1">Head 4</content>
+  <content contentuid="hc4a1f736gb013g54a5g1089g356dfdcaa39b" version="1">Head 5</content>
+  <content contentuid="h967f1909gecbegd2c1gcc27g966d3099b3ec" version="1">Head 6</content>
+  <content contentuid="hf06b21eeg7937gf7e9g70eeg5f3ad88bcb0f" version="1">Head 7</content>
+  <content contentuid="h5798ec5bga8d1gef2cg747ag27e1082c3738" version="1">Head 8</content>
+  <content contentuid="h2a952d44g2b95g717age557g6ac8d332cc45" version="1">Head 9</content>
+  <content contentuid="hc03bf00age4e9g0358gec32gd7fe36457ab9" version="1">Head 10</content>
+  <content contentuid="he4b62ec0g2f00g9527gacafg315bc31e53f9" version="7">Half GIant</content>
+  <content contentuid="h8f11bb90g3a22gda46gd178g020e4c4a086e" version="6">Cloud Giant </content>
+  <content contentuid="h47f3cb5cg6502g48b5g94c7g5bc28b339648" version="4">Fire GIant Female</content>
+  <content contentuid="hbea28f56gb913g9483g0c05g48649da7d887" version="5">Fire Giant</content>
+  <content contentuid="h8f03be12g699cg0d11g4417g1829e39b00db" version="6">Frost GIant</content>
+  <content contentuid="hfeffd3d4gb718gb7a5g8e6cg46d5d3fe3d78" version="4">Frost Giant</content>
+  <content contentuid="h72746771g2b1eg1123g900dg11b1b9bef37e" version="5">Hill GIant</content>
+  <content contentuid="hfe59ea75g752age1dcg569cga1ffd6fb2eac" version="5">Hill Giant</content>
+  <content contentuid="hf333162ag3d21g7519g9045g08e027fffa44" version="5">Stone GIant</content>
+  <content contentuid="h76d07be2g2c91g9a11ge5b0g36b6902417ff" version="5">Stone Giant</content>
+  <content contentuid="hcd7c1ff5gd929gba31g0947g81a32aa72c71" version="5">Storm Giant</content>
+  <content contentuid="h08440473gcda9g6764gb1e0ga96c310f08aa" version="5">Storm Giant</content>
+  <content contentuid="h6968b5d4gdb69g4fc0gc6efg58f37433ce8b" version="1">Plucky Fable</content>
+  <content contentuid="h616885f9gf4ecg8ab1g8673g6d8b2dda9e5d" version="1">Cauldron Foam</content>
+  <content contentuid="h4513c5c5gbea2g4bcfg21f8gb76192e7f5da" version="1">Cauldron Foam</content>
+  <content contentuid="hc946b265g5a4fg56beg6d56g157661e1925c" version="1">Bohemian</content>
+  <content contentuid="h3ddbea5cgf904g425fg7632g384c3590e028" version="1">Poppy Bud</content>
+  <content contentuid="hb5a22498gbb38g1c6agafc0g9a352751b219" version="1">Furled Wings</content>
+  <content contentuid="h1aae6a6dge5ccg3199ge7d1g712b36c8fe89" version="1">Tidy Mohawk</content>
+  <content contentuid="h9fa9d642g6810g61fcg380eg6e079263d86f" version="1">Piranha Tooth Mohawk</content>
+  <content contentuid="hd9a47370gc636g259dg0917g77400ea8e79f" version="1">Topknot</content>
+  <content contentuid="hba6d1b35gfa32g150bg5bc7gc2316a0f5a6c" version="1">Bruenor Braids</content>
+  <content contentuid="h8641bce1g8569g337cg1d0age7478f27f514" version="1">Partial Eclipse</content>
+  <content contentuid="h7f3cc3a3gc2e8g90c7gd7dbgf18923ca6a71" version="1">Foxtail</content>
+  <content contentuid="h0fd5f11bgd318g6f2ag8b69gca095543f98c" version="1">Arabel Ribbon </content>
+  <content contentuid="h453f045eg7994g533fgf695g9787a36dc241" version="1">Languid Bandit</content>
+  <content contentuid="hc3527e4bgdb78ga85agc349g8e7aff6331fa" version="1">Rapscallion</content>
+  <content contentuid="h2e70cc2eg1741g8457g9b1egb9e9168ac167" version="1">Hubris</content>
+  <content contentuid="hd437f00egc130ge1b2g1fc9gac9104eac305" version="1">Cauldron Foam</content>
+  <content contentuid="h15a45781g0940g8117gc15agcff7b49c340c" version="1">Plucky Fable</content>
+  <content contentuid="h4602805dg1f6fg02e3gaa97gc5157b46821d" version="1">Busy Promenade</content>
+  <content contentuid="hba9f5085gbee3gf3fbgc506gdb7fe6e1524b" version="1">Bohemian</content>
+  <content contentuid="hace19aefg4299gbfd1g8f47ga93257ed41d6" version="1">Poppy Bud</content>
+  <content contentuid="h7f68e82dg116dg7ea1gb17cgd3dd84a1b235" version="1">Furled Wings</content>
+  <content contentuid="hafa970dag9fa6gc80dge321g20b61196a667" version="1">Tidy Mohawk</content>
+  <content contentuid="haf74d547gf4d2gea4eg051bg50ec8856f100" version="1">Piranha Tooth Mohawk</content>
+  <content contentuid="h2ba37be0g3e7ag3b37g311ag5f177c738dae" version="1">Topknot</content>
+  <content contentuid="h459c725dg30feg8e79gff01gc9755dfd15f2" version="1">Bruenor Braids</content>
+  <content contentuid="he9100c5ag4b4eg731ege81age9ede9f7622f" version="1">Partial Eclipse</content>
+  <content contentuid="h02288cafg57cag215dgb7c8g42ef78f97ddd" version="1">Foxtail</content>
+  <content contentuid="h24a57c34g2b36gbcc2gb86cg09cf051ba55a" version="1">Arabel Ribbon</content>
+  <content contentuid="h1647ff31g16cagc921g002cga92dfdf6099a" version="1">Languid Bandit</content>
+  <content contentuid="h5f8d2536g865fga76agd014gdf63a9673cb3" version="1">Rapscallion</content>
+  <content contentuid="h5fe0d006g947ag379eg14e9gebba64c10cda" version="1">Hubris</content>
+  <content contentuid="he06fe893g18edg2500g5042gcd9ab639f476" version="1">Head 3</content>
+  <content contentuid="ha174607dgf76egf086g7e2fgd3a7260d7ba3" version="1">Cauldron Foam</content>
+  <content contentuid="h19c756f2g7ab5g82fbg5515g3272614a9676" version="1">Cauldron Foam</content>
+  <content contentuid="h47949b72g8f8dg4a90gb81dg8568cfacef4b" version="2">Human</content>
+  <content contentuid="h4d5440dagb7c6ge03cg3cf2gf6ec9373b544" version="2">Cloud GIant</content>
+  <content contentuid="he85fce9bge1a5g72e9g451ag5079a51b7094" version="1">Human</content>
+  <content contentuid="h3383db0bgb7c8g8c93g0050g54f921acbad4" version="1">Half Giant</content>
+  <content contentuid="he062dd6dg1e0cg20e6g5358g3a376564ee49" version="1">Half-giants are widely known for their physical abilities, and for their ability to deal heavy damage to foes during combat, but they are typically shunned by many people for their hulking figures and often simplistic views on life and goals.</content>
+  <content contentuid="h52f75055gb9d1g305fg7339g703a9193786e" version="3">Half Giant</content>
+  <content contentuid="hfdb6ee73gb1cdgefb7g1f3fg62dc4a98dfd7" version="4">Half GIant</content>
+  <content contentuid="h839a5f21g3e51g4d43g25c1g5b82624508fd" version="1">Vulva</content>
+  <content contentuid="h7eb612ddg004eg9c93gc30cg6e4a3adfe0de" version="1">Default</content>
+  <content contentuid="hb17af441ge839gbc93g8ff0g0fba48d1d69f" version="1">Vulva B</content>
+  <content contentuid="ha81e38dfg60b4g9bfegb8c6gcb33ac91dd59" version="1">Penis</content>
+  <content contentuid="h33ac821eg3b68g86dag4e36g4bbc726f69b4" version="1">Default</content>
+  <content contentuid="hc79140dbgd44ag630cg7a4fg320105db7504" version="1">Penis B</content>
+  <content contentuid="ha274a55fgf27aga7bdge2d7ga75ae9bfd1b6" version="1">Penis C</content>
+  <content contentuid="h7478201bgec5ag1dd6ge5e4gf1b9b3defdda" version="1">Penis C</content>
+  <content contentuid="h6f3877cdgf211gd40fgf369g35428cc91e91" version="1">Vulva</content>
+  <content contentuid="h3fc1fbeeg6982ge086g4e1dg8f657aeeb820" version="1">Default</content>
+  <content contentuid="h47b34671g8838ge964g923eg2a66eea1ace5" version="1">Vulva B</content>
+  <content contentuid="h1b1990e6ga478g6693g3d52g6e54d0e8990c" version="1">Vulva B</content>
+  <content contentuid="h6d900ff6gdcebg8ae1gfb84g172d6f4f425e" version="1">Penis</content>
+  <content contentuid="hedbe06degd65cg0bb8g7d1dg3a6500ff9864" version="1">Default</content>
+  <content contentuid="hce7682d5g379fg9ea2gcd52g6cc67c352924" version="1">Penis B</content>
+  <content contentuid="h3d40062egc43fg0cf6g1e95gafd95700f30b" version="1">Penis C</content>
+  <content contentuid="h9e237232g7a61gc03eg4cacg38de77d443da" version="1">Penis D</content>
+  <content contentuid="hd5ff18dfgdfd3gfe15g3bf1g179b5ba90b4a" version="1">Penis E</content>
+  <content contentuid="h48992dcag4928g4d9bg3849gf4a333f42d72" version="1">Default</content>
+  <content contentuid="h5fc9ac3agddd6gd342g9e09gae2279f9fbe2" version="1">Vulva B</content>
+  <content contentuid="h6d2a42f7ge71bg2b45gc124g5697713f78bf" version="1">Vulva C</content>
+  <content contentuid="hdb0a0af1g60abg0fb8g9b34g80da029f6a22" version="1">Penis</content>
+  <content contentuid="ha2cda2c8gcff3g0141g2b0dgb586314335ad" version="1">Default</content>
+  <content contentuid="hc6eb4ef7g918fg614eg0ee3g9ebd7cc05454" version="1">Penis B</content>
+  <content contentuid="hcc36d8a4g6264g9196g776dg587e8e5d1740" version="1">Penis C</content>
+  <content contentuid="h86665522gfee9gb3c3gc052gaf100fd3e090" version="1">Penis D</content>
+  <content contentuid="hb478aa8fg3cd7g1864gc827g33bb72fb1044" version="1">Penis E</content>
+  <content contentuid="hc8fa0767gf582g9e7cg09d5gb2e9de2c02ac" version="1">Vulva</content>
+  <content contentuid="h8ecbf0begd85bgee7cg394cg1968ee12b7f8" version="1">Default</content>
+  <content contentuid="hba5d3c8egc65agdaeagb6c5g9e8d6a0d043b" version="1">Vulva B</content>
+  <content contentuid="h63f44adbged82ga575g3040gfe563d196481" version="1">Vulva C</content>
+  <content contentuid="h6c67a978gd0d3g7da0g8f40g5f5583b8289b" version="1">Penis</content>
+  <content contentuid="ha0613071gf8f0g542fg7c74g9ab90543740e" version="1">Default</content>
+  <content contentuid="h12d790a3ga32egbdd9g5096gf0a8f4a3788a" version="1">Penis B</content>
+  <content contentuid="habcacf10g9af4gf3edg5ac8ga6c845752451" version="1">Penis C</content>
+  <content contentuid="hdcf73f0bg55a0gb98ega5ffgad896675ed13" version="1">Penis D</content>
+  <content contentuid="h57f1a1ebg2d9egf997g8b12ga3c87d2e7655" version="1">Penis E</content>
+  <content contentuid="hcd691eccgfb2ag271bgb1fcg08fade6763de" version="1">Half Giant</content>
+  <content contentuid="hec324db9g49d8g4859g93dagf55c7957e953" version="2">Singer of Sorrows</content>
+  <content contentuid="hdc96a942g3c7ag434agb49fg03aaf478bfbb" version="2">Sword of the Moonmaiden</content>
+  <content contentuid="h211a10d3g8374g4f91ga500gdaf88f3d2f78" version="3">Sword of the Moonmaiden</content>
+  <content contentuid="h60978eddg567fg417cgb49bgc39a644468c1" version="2">Agent of the Absolute</content>
+  <content contentuid="h7d9ad17dg5052g4d34ga5c9g23e11e978190" version="2">Agent of the Absolute</content>
+  <content contentuid="hb23bfed7g0640g484dg83acg579e69307e5d" version="2">Justice of the Murder Tribunal</content>
+  <content contentuid="h45f58528ge785g4409g9687g9300895f9c6f" version="2">Master of Puns and Punchlines</content>
+  <content contentuid="hea478553g07f0g0800g9a99g10cc1a57d735" version="1">Half Giant</content>
+  <content contentuid="hd2d78fbagd6fcg42adgba70g775f6805e8fd" version="3">Singer of Sorrows</content>
+  <content contentuid="hda35df93g41fcg47f6gb5b1g28650337e483" version="2">Novice of the Absolute</content>
+  <content contentuid="hfd9fbe91g6d53g421cgb077g7fad24ef700e" version="2">Gur Leader</content>
+  <content contentuid="h7151ea37g1987g435eg901dgba08e6e0f4a1" version="2">Deathbringer of Bhaal</content>
+  <content contentuid="hfcc5cdaeg8e04g4d1egbba5g841eb16f1a9b" version="2">Deathbringer of Bhaal</content>
+  <content contentuid="h9a09cc40ge5a3g4f1dgb25ageb58c799fe61" version="2">Deathbringer of Bhaal</content>
+  <content contentuid="he90560a2g106fg4daeg825cg8480fb6f52a4" version="2">Guildmaster</content>
+  <content contentuid="he22293e9g34b4g446bgbd10g3e22bfd59ae9" version="3">Nine-Fingers' Bodyguard</content>
+  <content contentuid="he415258bge79fg45d8gb090g65ba54cf1fc9" version="3">Nine-Fingers' Bodyguard</content>
+  <content contentuid="h48b1bcbegb9d0g4bafg8fd4gdba838940502" version="2">Novice of the Absolute</content>
+  <content contentuid="hadd81aabg093fg47dcga28agdf615e0b9257" version="4">Custodian of the Fallen</content>
+  <content contentuid="h6ef07d8fg426fg4bfagaca6g7afa75660ef6" version="2">Supreme Marshall of the Flaming Fist</content>
+  <content contentuid="h20107461g98f3g4adfg99b0gbaa128f7eb4b" version="3">Zhentarim</content>
+  <content contentuid="h66bd9afag7a7dg40b3g8543g8237cb3523c2" version="3">Procurer of Associates, Stories, and Curios</content>
+  <content contentuid="hbaab84bfg9185g4713g8459g96532168381e" version="2">Peddler of Mementos</content>
+  <content contentuid="h2982a7c5g917bg47c0gb49cg61718c422684" version="2">Archduke Nominee</content>
+  <content contentuid="hf25ec6aagc5c3g2994g3ae6g574d8319ec40" version="1">Frost Giant</content>
+  <content contentuid="hc6c74c88g23dag8a9dgb925g1fa14f305b8d" version="1">Half frost giants' skin has a bluish tinge, reflecting their giant parent's. They have very long hair, especially on their face in males.</content>
+  <content contentuid="h5ff861c9gbaedgd255g54bbg286d2e389779" version="1">Half Giant</content>
+  <content contentuid="h50a5304dgf390ge25fgaf32gd16e2b40f6fa" version="1">Half-giants are widely known for their physical abilities, and for their ability to deal heavy damage to foes during combat, but they are typically shunned by many people for their hulking figures and often simplistic views on life and goals.</content>
+  <content contentuid="h813cfe45g1fd6g2e8agd253gc3284131bd22" version="14">Half-Giant</content>
+  <content contentuid="h8ce816e9g8ba9geed8g5d95g31b135731b09" version="12">Half Giant Male</content>
+  <content contentuid="h03463ccdge3ebgb21bg87f1gb88f34facae5" version="10">Half-Giant Female</content>
+  <content contentuid="h4c986f3fgd003g0be7gde77g1120bbcd1afd" version="7">Half Giiant Female</content>
+  <content contentuid="he4dabc34g4568g2d8fgd75cg557af31e32df" version="1">Head 1</content>
+  <content contentuid="h1580591dg920fg0b1bg7be8gb0cc884891fc" version="1">Head 3</content>
+  <content contentuid="h481fe8efg008eg5967g2828ge8544b0f7c2b" version="1">Head 8</content>
+  <content contentuid="hc6ebcd94gabceg9cbagb190g82275be3d1c1" version="1">Head 7</content>
+  <content contentuid="hf0418a7dgb37eg80e0g127bga3920589497d" version="1">Head 6</content>
+  <content contentuid="h9d750b99g6efbg6eb0g6821ge71c3a92fe65" version="1">Head 5</content>
+  <content contentuid="he38319f2g793fge8e3g051dg9efecf650b48" version="1">Head 4</content>
+  <content contentuid="h2dfb5b87g5b60g2a08g5338gab9b138f33cc" version="1">Head 2</content>
+  <content contentuid="hbec4488bg91dfgca6ag88b1g54fa24935a09" version="1">Head 10</content>
+  <content contentuid="h77711944g4854g3f2bg5913g95871185196c" version="1">Head 9</content>
+  <content contentuid="h00e5ec5cgcee3g208eg1cc8g5ba02885fd2e" version="1">Head 8</content>
+  <content contentuid="h68c268edg6233g63e9g1081g83fef6fed86f" version="1">Head 7</content>
+  <content contentuid="h20d3a590ga6eeg785bgdb26gbda0f9c23474" version="1">Head 6</content>
+  <content contentuid="ha484a68bg6c16gee03g4997gfd5f1bfa9e67" version="1">Head 5</content>
+  <content contentuid="h2069c1acg960agf19cg59b2gd3fb91799dec" version="1">Head 1</content>
+  <content contentuid="h791b7ec7g53d3g7325gbd60g94ba223b5436" version="1">Head 2</content>
+  <content contentuid="hf48d82eag3f4agde2egadd3gad09a2b2905e" version="1">Head 4</content>
+  <content contentuid="h40f8e380g099dg4df9g5db5g62f2422224d8" version="1">Head 3</content>
+  <content contentuid="h55e1b7d4g9944g34b7gfc87ga9f0a3b5087c" version="1">Hubris</content>
+  <content contentuid="h4affd3ddg89a2g5ed8g9cf4g6628d43f0f95" version="1">Rapscallion</content>
+  <content contentuid="h4105b364g4388g11f8ge399g49964dd7f6a5" version="1">Languid Bandit</content>
+  <content contentuid="hb4d03534gd822gc685g73e9g9c545c2662d5" version="1">Plucky Fable</content>
+  <content contentuid="hf8616a82g42c2g82b7g097cg6ac3a6dcb169" version="1">Arabel Ribbon</content>
+  <content contentuid="h90eb7720g31f2gf5deg2e99gf5a4bf0993af" version="1">Foxtail</content>
+  <content contentuid="hef57a060ge896g4fc2g57a3ged127bb93a11" version="1">Bruenor Braids</content>
+  <content contentuid="hb49c1767g6ed5g12d4g69c2g7f1de13e94b5" version="1">Busy Promenade</content>
+  <content contentuid="h73bf3cd6g76e0gc861g6a52ge64caf32daa5" version="1">Cauldron Foam</content>
+  <content contentuid="haa6e54efg7719gfbd8gc638g4ba8e32cc662" version="1">Partial Eclipse</content>
+  <content contentuid="h04aefe55g0a12g9288g4c01gf725af739f09" version="1">Topknot</content>
+  <content contentuid="h958b738cgc82agc728g23e5g96b8df3d6f29" version="1">Piranha Tooth Mohawk</content>
+  <content contentuid="h6d95b8e1gcb66g5e63gf7dag5103824b3745" version="1">Tidy Mohawk</content>
+  <content contentuid="h9468bbf5g8136gd978gaf6cg82f715f5236f" version="1">Furled Wings</content>
+  <content contentuid="h114af80dgf4b3g30a4g44b5g7f1aacf7cb63" version="1">Poppy Bud</content>
+  <content contentuid="h8f6ee7a9g942eg8ecfg8cb5g4992d619bd82" version="1">Bohemian</content>
+  <content contentuid="hed758d4dga1ebgf43eg630ag75522016adad" version="1">Hubris</content>
+  <content contentuid="h9b269fbbg8bb8g7a0fg497ege2f54974a7c7" version="1">Languid Bandit</content>
+  <content contentuid="hbc9429a9g27ebg571fg84ccga02d768e8a89" version="1">Cauldron Foam</content>
+  <content contentuid="h8f1c700eg10fcgc215ga172g13c169e4f900" version="1">Rapscallion</content>
+  <content contentuid="hac877fb8gc06bg694dgff56ge7ebcb3c6608" version="1">Arabel Ribbon</content>
+  <content contentuid="hdf595474g46a0g1974gfceaga41f7cd1f467" version="1">Foxtail</content>
+  <content contentuid="h619ff69dg1ff8g43c1g6700gdaa567e7a53e" version="1">Plucky Fable</content>
+  <content contentuid="hc0d386e9g5a9fg10b5ga9b3gb760d1bf85fd" version="1">Partial Eclipse</content>
+  <content contentuid="h3f121749g58bbg2d79gc64dg9996b75d390c" version="1">Piranha Tooth Mohawk</content>
+  <content contentuid="hfd6442a5g36f8g45ccga256g8424e22a4d61" version="1">Bruenor Braids</content>
+  <content contentuid="heb34e833gf32bg4f91ga496g789a8494d347" version="1">Topknot</content>
+  <content contentuid="h6d8cf45egd599g3ab6gf32fg54cf223acde3" version="1">Tidy Mohawk</content>
+  <content contentuid="h3905c118g87b1g6fe6gcb8dge046c13a3352" version="1">Bohemian</content>
+  <content contentuid="h2c47ce5dg5f82g2d53geb6egc1a519b135dd" version="1">Furled Wings</content>
+  <content contentuid="h819a480fg69dag565bg61cdga3a9963acb48" version="1">Poppy Bud</content>
+  <content contentuid="h9d377971g266bgd27fgdc64gf40e0608bb6c" version="1">Busy Promenade</content>
+  <content contentuid="h6f350a68g8eb3g61a5g799cg16e4b5bced45" version="1">Penis D</content>
+  <content contentuid="hf6919ac4gd6c1ged5fge16bg00f20486bb55" version="1">Penis C</content>
+  <content contentuid="h41df905cgc5c2ge4ecga527g5e28c0483ab9" version="1">Penis B</content>
+  <content contentuid="h52ab71e2gc0b8g6f9ag10a1gb00559c6ad2a" version="1">Default</content>
+  <content contentuid="h218a0c0fg217dg133fg067cg51d11070382e" version="1">Vulva</content>
+  <content contentuid="h0168e612g9b79g9a51g72f0g897bd3fcfa6a" version="1">Penis</content>
+  <content contentuid="h2bb72ffdgd4fdg62eeg20f5gc5ef560aa3b1" version="1">Vulva B</content>
+  <content contentuid="hda4d0624ge86bge876g7b57g1eb462ff7897" version="1">Default</content>
+  <content contentuid="h9cd55ab9gcd5eg56degda2ag78b9c699bcdb" version="1">Penis E</content>
+  <content contentuid="ha17114aag381ag1b34gdc68g6edee2f6f199" version="1">Penis E</content>
+  <content contentuid="h878e07fagf09cgafc3g9074g0127d2eae4ff" version="1">Penis D</content>
+  <content contentuid="h0b171e7cg1c07gb256g20efg6059c5cc7453" version="1">Penis C</content>
+  <content contentuid="h44a58fc4g4ae4gd1acg261bg5a1f4daedade" version="1">Penis B</content>
+  <content contentuid="h8d4a9d95gd42dg1428g05acga9c20a8f1b23" version="1">Default</content>
+  <content contentuid="h657d869fgf83eg5d1bgcaf4gef3cc750c126" version="1">Penis</content>
+  <content contentuid="h69ba3c3ag800agfadeg275dg4e4820fb628b" version="1">Vulva C</content>
+  <content contentuid="h81786c36g1e7bgbcaeg18d1g244dff9564fb" version="1">Vulva B</content>
+  <content contentuid="h755c3f98g8ddcga1edge798g3bd21b3665df" version="1">Vulva</content>
+  <content contentuid="he4a0f204geeb4g701ega19cg31a74eabef93" version="1">Default</content>
+  <content contentuid="hba857f3fg8d7eg116bgbc8bge35d7733188c" version="1">Ignite Blade</content>
+  <content contentuid="hb0dd00e6gc6a1g9e18g7846ga071375ca5c7" version="3">Born in fire and flame, you channel the powers of Surtr, igniting your weapon, causing it to deal an additional [1]</content>
+  <content contentuid="he6e0a461g1be8g09b8gd578g81940a92958d" version="1">Gust</content>
+  <content contentuid="h9e4b9d8bgc5e2g16c0g1019g83dfe9513cd8" version="2">You create a small blast of air capable of moving a creature back [1]</content>
+  <content contentuid="hf7a292e8gacd0g8e31gfe24g5e1155ab1b24" version="1">Deflect Missile</content>
+  <content contentuid="h51c33272g394ag8236gc7f7ga773e2bde1dc" version="1">You can use your reaction to deflect the missiles from ranged weapon attacks. When you do so, the damage is reduced by [1].</content>
+  <content contentuid="h23954f05g4a0dg8e22g0d1fgdce608b9fffd" version="1">Stone Defense</content>
+  <content contentuid="h872d374ageeebg47d2g27e5g35a94d0ede52" version="2">You can use your reaction to deflect the missiles from ranged weapon attacks. When you do so, the damage is reduced by [1] + [2].</content>
+  <content contentuid="h12252b31g7433gd033gbe90g237b8e7b0b10" version="1">Storm Bolt</content>
+  <content contentuid="h80d9e9bcg3e81g4b11g64d7g35263479ed99" version="2">Channel the power of Stronmaus, Son of Annam, to hurl a bolt of lightning.</content>
+  <content contentuid="h1a75f6cega266g8565g2a04g10702a9d4daf" version="1">Annam All-Father</content>
+  <content contentuid="h9d291105ge408g2543ga6b0g7eb4331c4385" version="1">Annam All-Father was the chief giant deity and creator of the giant race, known also as the Prime, the Progenitor of Worlds, the Great Creator, and the Creator-By-Thought.</content>
+  <content contentuid="hdfa7e65dg4d25gd1f9g0fb4g1466b2190da4" version="1">Hiatea</content>
+  <content contentuid="h019a4810gbdf4g9372g1e29g33ebc32080e5" version="1">Hiatea was the giant goddess of nature, agriculture, hunting, females, and children. Her symbol was a flaming spear.</content>
+  <content contentuid="he66ac149gd9e5g2d4dgc93bg567a55047cfc" version="1">Grolantor </content>
+  <content contentuid="h76b2a92bg7f75gf395g1c34g587f058a2b6c" version="1">Grolantor was the giant god of hunting and battle, and the primary patron of the hill giants.</content>
+  <content contentuid="hdc1697c2g945dg4ffdg2140gcfa0624e18c9" version="1">Memnor</content>
+  <content contentuid="he39dc291g40ddgc1ecg2cc0g13b9a4d52f3c" version="1">Memnor was the giant deity of pride and control. He was an ambiguous figure in the Ordning, whose tales concerning him were quite disparate with one another.</content>
+  <content contentuid="h5fa4d9f8g37c2gd066g94eeg803130cbde12" version="1">Skoraeus Stonebones</content>
+  <content contentuid="h286e37c5gc71age565gdca9g3020ce399e70" version="1">Skoraeus Stonebones was the giant god of craftsmanship and that which was buried, and was the primary patron of the stone giants.</content>
+  <content contentuid="habf16745g0b38gb2f0gad35gd820d0d1c0ef" version="1">Stronmaus</content>
+  <content contentuid="h51606f34g9512gae29g3559g0f578e707cc1" version="1">Stronmaus was a neutral good greater deity of the giant pantheon, known as the Ordning, holding the portfolios of the sun, sky, weather, and seas.</content>
+  <content contentuid="h355ecf8age760g0891g5082g757021009c6a" version="1">Unarmored Defense</content>
+  <content contentuid="hdb80f122g4ee8g33d3g7b09g5cf113aea2dc" version="1">While not wearing armour, you add your Constitution &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; to your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;</content>
+  <content contentuid="h6e27b4eeg23ccg9fd3g41a0gc7c20c385270" version="2">Stone Defense</content>
+  <content contentuid="h155b869dg9baagf9aag6ec5gd43ff2058939" version="1">Reduce the damage from a ranged weapon attack by 1d4 + your Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;</content>
+  <content contentuid="h5c2da503g3f75g79efg92c3g9ec425055929" version="1">You can only reduce damage from the attack - any additional effects can't be negated.</content>
+  <content contentuid="hc1fce67cgf0afgef5bg13d3gde8e0acadce5" version="2">Frostwalker's Halberd</content>
+  <content contentuid="haf2b6f03geaeagbfdbgb038g938bfe61867c" version="2">A deep scratch runs down one side of the axe blade. It thrums with magic.</content>
+  <content contentuid="hc148f830g6423g3a1agb426g1e825006ff42" version="4">Frostwalker's Halberd</content>
+  <content contentuid="h45a30ac1g5c88g8338gaba5g661b941aa3c4" version="4">This weapon resonates with the ancient magic of the Giants, its song weaving through the air. The engravings hint at its history, revealing it was once wielded by a Bard of legendary acclaim.</content>
+  <content contentuid="hb08877fag4f9fgaec6gc22fg6d1f70da475b" version="1">Karontor</content>
+  <content contentuid="hbf956b82g96f0g6608ga798g981ad9e9d979" version="1">Karontor was the giant god of disfigurement and hate, and the chosen patron of the malformed fomorians and the more villainous verbeeg.</content>
+  <content contentuid="hc274d5eag4b7dge5c3g28ebga558fc9b9193" version="1">Surtur</content>
+  <content contentuid="h144bb324ge5bbgd20cgd311g2067f855b514" version="1">Surtur, also seen as Surtr, was worshiped as the giant god of the fire giants.</content>
+  <content contentuid="h1dd24feeg1337g584agc19fg845f1d3acc11" version="1">Thrym</content>
+  <content contentuid="h52c65676gc679g46ebg0657g9a824c8eb077" version="1">Thrym was a titan worshiped by the frost giants as the giant god of cold and ice.</content>
+  <content contentuid="ha0c7b59eg2ba1g3f87g35cfg612867ae6c79" version="1">Diancastra</content>
+  <content contentuid="h78f51fb4g1700gd0e4gb9a8g2c279b1e2b71" version="1">Diancastra was the giant demigoddess of wit and pleasure, a minor trickster deity of the Ordning. A goddess of many faces, Diancastra won her place among the giant pantheon through her daring, craftiness, and carousing ways.</content>
+  <content contentuid="h29f313dcgb292gf7b8g5bbeg05ec22af18ad" version="1">Iallanis</content>
+  <content contentuid="h4f2e9133g09e4g2e42g62ebg7f9269df2e4a" version="1">Iallanis was the gentle giant goddess of peace and mercy. Represented by a garland of flowers, she was the symbol of love across giantkind and hoped that one day they could all live in harmony.</content>
+  <content contentuid="h348f1c59g60e6ga693gbf67gc3931ef01d11" version="4">Lore Wanderlost DazzleFrost</content>
+  <content contentuid="hd9217956g7ec9g1c86g6b7agb4fda8fde3e5" version="2">Trader</content>
+  <content contentuid="h6327a09egd184g4f5fg912ag36ba947fcead" version="2">Dryfle Doon</content>
+  <content contentuid="hc7e8eef0g3276g7a12g2666g4f13466356eb" version="2">Dankwood</content>
+  <content contentuid="hbdd3c9d5g16c5g532ag4b22g8d40aa2f0e76" version="1">Weak, selfish humanoids. Though they often serve stronger races, they crave power and abuse what authority they obtain.</content>
+  <content contentuid="h1c64d860g2439g33c9g6b5bg323683a576db" version="1">Grotag Tribe</content>
+  <content contentuid="h3f2ce2bbg26a4g4a93g01b0g5c62a05a0391" version="1">Lavastep Tribe</content>
+  <content contentuid="hfce87192gbd99g77b7g94f6g42ac47b2d518" version="1">Tuktuk Tribe</content>
+  <content contentuid="h5c313587g58d2gdd29g5ab4g9b0199e2d386" version="2">Goblin</content>
+  <content contentuid="hbff3af37gb07egd3f8g4893g22dc3fdad0a5" version="2">Weak, selfish humanoids. Though they often serve stronger races, they crave power and abuse what authority they obtain.</content>
+  <content contentuid="hc111a5b5g538bg09eag5fd7ga5c8f766ac89" version="1">Grit</content>
+  <content contentuid="h1af1f7f0ge328g569dga426gcfe127bfbbc8" version="1">While not wearing armour, your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is equal to 11 + your Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;. In addition, you have &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to fire damage and psychic damage.</content>
+  <content contentuid="he82ac989g184bg1388g757cg820a44240a47" version="1">Grit</content>
+  <content contentuid="h270dfedeg5d85gf248g30c5g129e950648b1" version="1">While not wearing armour, your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is equal to 11 + your Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;. In addition, you have &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to fire damage and psychic damage.</content>
+  <content contentuid="h5f6be058g3f8bg8361g80edg50df71b9184f" version="1">Grit</content>
+  <content contentuid="hd631b4f2g958fg9632g3bbbgee45ef877315" version="1">You have &lt;LSTag Tooltip="Resistant"&gt;resistance&lt;/LSTag&gt; to fire damage and psychic damage. In addition, when you are wearing no armor, your AC is equal to 11 + your Dexterity modifier.</content>
+  <content contentuid="he797ac67g8de1g90a4g94b4g6f1b89ac90f0" version="1">Grotag Tamer</content>
+  <content contentuid="hc26aa34eg8535g4ddfg6f4dg27f5866e3746" version="1">You are &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; in &lt;LSTag Tooltip="AnimalHandling"&gt;Animal Handling&lt;/LSTag&gt;.</content>
+  <content contentuid="h4d228699g56fcgc508g287dg8ba46c6a0254" version="1">Dankwood goblins are much like any other run-of-the-mill goblin but they are much more gentle and artistic than the savage and uncouth goblins of the world. They are inquisitive and have a magical bond with the small forest creatures with which they are often friends. They are fast and numble and love to explore. Because of this they make great adventurers and guides.</content>
+  <content contentuid="h2fcbc55ag2c74ga2e7g11c4g6572b45af65c" version="1">Smaller and weaker than their cousins, and with larger hands and feet, goblins of the Grotag tribe attempt to live by their wits-though seldom with much success. The Grotag imagine themselves to have a sort of empathy with beasts, and they lose hundreds of goblins each year to ill-advised attempts at monster taming. But, every now and again, one of these efforts is successful.</content>
+  <content contentuid="hb2bd84e8g92aeg5964g5555gdf8f354b7eec" version="1">The Lavastep tribe is the most industrious of the goblin tribes, and possesses much hard-won knowledge of the geothermal activity in Akoum. More so than members of the other tribes, the Lavastep goblins build surprisingly effective equipment out of the crystal shards and veins of strange metals that occasionally boil up to the surface.</content>
+  <content contentuid="hfe3c099bg6d2ag90f0gd5abg77ad12408ff8" version="1">Among the goblins, the Tuktuk are most likely to hire themselves out as ruin guides to other races. Of course, their usual plan is to help find something of value, steal it, trigger a trap intentionally, and then run.</content>
+  <content contentuid="h401a4c56g906dga95dg485ag7a96de398035" version="1">Lavastep Grit</content>
+  <content contentuid="h3f0c160egfe0cg0242ga452g7ae9f171c083" version="1">You are &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; in &lt;LSTag Tooltip="Stealth"&gt;Stealth&lt;/LSTag&gt;.</content>
+  <content contentuid="hdd402e7agf301ge964g9312g77c7ce758915" version="1">Tuktuk Cunning</content>
+  <content contentuid="h58b01dc1g7b5fg9f8cgc1aag46b55355ac3c" version="1">You are &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; in &lt;LSTag Tooltip="SleightOfHand"&gt;Sleight of Hand&lt;/LSTag&gt;.</content>
+  <content contentuid="h74edc6f3g449agf92fg859dg5555734b6ec3" version="1">Cloud Strike</content>
+  <content contentuid="he0a26998gd39age168g49d6g51e61a54d13c" version="2">The target takes an extra [1]. If the target is a creature, it must succeed on a Wisdom &lt;LSTag Tooltip='SavingThrow'&gt;saving throw&lt;/LSTag&gt;, or you become invisible to it until the start of your next turn.</content>
+  <content contentuid="hfcc7bdd3gd28dg9aa2g55b9g047583b01eca" version="1">Invisibility will break if you make another action.</content>
+  <content contentuid="h04fe35c0geab4g090fg7f74g8d64517ad71a" version="1">Fire Strike</content>
+  <content contentuid="hd2058578gc090gfe61gfaaeg5242f1487869" version="1">The target takes an extra [1].</content>
+  <content contentuid="ha6055f90g3488g48e1g0a95g27a1b9d72596" version="1">Frost Strike</content>
+  <content contentuid="h1f9e4452gb6d3g2c6fg5035g3d2d9dd07010" version="2">The target takes an extra [1]. The target must succeed a Constitution &lt;LSTag Tooltip='SavingThrow'&gt;saving throw&lt;/LSTag&gt;, or be unable to move until the start of your next turn.</content>
+  <content contentuid="hba822ad9g4577g8fa1g90c2g974cacdf9532" version="1">SavingThrow(Ability.Constitution, SourceSpellDC())</content>
+  <content contentuid="h90eb8740gd317g4c21gb6c6g75edfd1b5857" version="1">Hill Strike</content>
+  <content contentuid="h5f4b35a3gca40gb1a7ge129g427c9818d4e7" version="2">The target takes an extra [1] of the weapon’s type. If the target is a creature, it must succeed on a Strength &lt;LSTag Tooltip='SavingThrow'&gt;saving throw&lt;/LSTag&gt; or be knocked prone.</content>
+  <content contentuid="h3dad56fbg1cb6g87a6gcb0egfd723e44d6af" version="1">SavingThrow(Ability.Strength, SourceSpellDC())</content>
+  <content contentuid="h791e0aa4gcfeagad41g320bg1eddbb516c4e" version="1">Stone Strike</content>
+  <content contentuid="hda01c937g9a61g6249g253ag094b9f044c53" version="2">The target takes an extra [1]. If the target is a creature, it must succeed on a Strength &lt;LSTag Tooltip='SavingThrow'&gt;saving throw&lt;/LSTag&gt; or be pushed [2] from you in a straight line.</content>
+  <content contentuid="h8b7e896fgebe2g4698g7a68g4224b990116f" version="1">SavingThrow(Ability.Strength, SourceSpellDC())</content>
+  <content contentuid="hd6ccebc6g5b65g5464gc00cg1e258e9a9078" version="1">Storm Strike</content>
+  <content contentuid="h6ca338dbgee96gbefegbefcgba055587cf03" version="2">The target takes an extra [1]. If the target is a creature, it must succeed on a Constitution &lt;LSTag Tooltip='SavingThrow'&gt;saving throw&lt;/LSTag&gt;, or it has disadvantage on attack rolls until the start of your next turn.</content>
+  <content contentuid="h418be2c3gc88fg2af5gb0c7g52b900d9efd3" version="1">SavingThrow(Ability.Constitution, SourceSpellDC())</content>
+  <content contentuid="hcf906256gfc17ge5e1ga7c7g7c83c42fbc42" version="1">Giant Foundling</content>
+  <content contentuid="hd2c2abe5g5affg096fg1a8eg09c5973b35b6" version="1">You gain the Strike of the Giants feat.</content>
+  <content contentuid="hf9f43f6ag2299g8d15g4451g50d6601178cc" version="1">You grew up among giants. Maybe you were an orphan taken in by a sympathetic family of stone giants who raised you as one of their own. Or perhaps you lived in a lost prehistoric pocket of the world, surrounded by giants and fearsome behemoths or hulking dinosaurs. You have &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Intimidation"&gt;Intimidation&lt;/LSTag&gt; and &lt;LSTag Tooltip="Survival"&gt;Survival&lt;/LSTag&gt;.</content>
+  <content contentuid="h00355900g4899g27fcgf26eg748f31128da2" version="2">Goliath</content>
+  <content contentuid="h4fbdb656g738dgb355g9758gfd71c4e8c4eb" version="2"> Goliaths wander a bleak realm of rock, wind, and cold. Their bodies look as if they are carved from mountain stone and give them great physical power. Their spirits take after the wandering wind, making them nomads who wander from peak to peak. Their hearts are infused with the cold regard of their frigid realm, leaving each goliath with the responsibility to earn a place in the tribe or die trying.</content>
+  <content contentuid="h094699c6gb86eg9345g9dd3ga4f13e67e2d3" version="1">Stone Endurance</content>
+  <content contentuid="h21ca5e12g9ab4gc7cbg9d73g3e3601e0dfc4" version="1">You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll [1] modifier to the number rolled and reduce the damage by that total. After you use this trait, you can’t use it again until you finish long rest.</content>
+  <content contentuid="hf475694egda37gc0fdg2374gb79993ffabd7" version="1">Stone's Endurance</content>
+  <content contentuid="h8ea9c643g0fecgb7feg37c9g801a675094eb" version="1">You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll 1d12 + Constitution modifier to the number rolled and reduce the damage by that total. After you use this trait, you can’t use it again until you finish long rest.</content>
+  <content contentuid="h266657d8g9415gc7dagcc86gb9a728c71071" version="2">Stone's Endurance</content>
+  <content contentuid="h1d079293g248dg21e3g372cg94c90bd87d36" version="1">You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll 1d12 + Constitution modifier to the number rolled and reduce the damage by that total. After you use this trait, you can’t use it again until you finish long rest.</content>
+  <content contentuid="h1c4f4bccgc128g89c2gefc4g5c21fe172872" version="4">Cloud's Jaunt (Goliath)</content>
+  <content contentuid="h9659e075g2718g94f3gaeb8gd083cdf174d9" version="4">Fire's Burn (Goliath)</content>
+  <content contentuid="hcf366f14g7b0bg8b50gdc42gd4d02b7adcdd" version="4">Frost's Chill (Goliath)</content>
+  <content contentuid="h3a312385g1d51g95d6g5619g394739815833" version="4">Hill's Tumble (Goliath)</content>
+  <content contentuid="h25c4ec76g3a4dg963bg8fd7g10a9ed2dad89" version="4">Stone's Endurance (Goliath)</content>
+  <content contentuid="hd361925cgd54egae06gcffcg666e257fa9b2" version="4">Storm's Thunder (Goliath)</content>
+  <content contentuid="h2d7c3530g9e25g450bg3920g89e1940a2339" version="1">Large Form</content>
+  <content contentuid="h797ea1b6g5297gb270gdf74g3f017fd770ba" version="3">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Strength &lt;LSTag Tooltip="AbiltyCheck"&gt;Checks&lt;/LSTag&gt;, and your Speed increases by [1]. Once you use this trait, you can’t use it again until you finish a Long Rest.</content>
+  <content contentuid="ha11ad252g823bgc477g0350gbf66e2c9ae97" version="1">Large Form</content>
+  <content contentuid="h1fb61789g2c21g9f96gcaa9g4116f56d3843" version="2">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Strength &lt;LSTag Tooltip="AbiltyCheck"&gt;Checks&lt;/LSTag&gt;, and your Speed increases by [1]. Once you use this trait, you can’t use it again until you finish a Long Rest.</content>
+  <content contentuid="h59361eadg32e6g7907g2ea3g92ef0dae0b5b" version="1">Large Form</content>
+  <content contentuid="hfef773cagff1bgfd57g45bfg7249e9f0a906" version="2">You have &lt;LSTag Tooltip='Advantage'&gt;Advantage&lt;/LSTag&gt; on Strength &lt;LSTag Tooltip='AbiltyCheck'&gt;Checks&lt;/LSTag&gt;, and your Speed increases by Distance(3). Once you use this trait, you can’t use it again until you finish a Long Rest.</content>
+  <content contentuid="h0c3d3cb4g7d29g56c9gbe91g065b9011bfd0" version="1">You are descended from Cloud Giants.</content>
+  <content contentuid="hb46bc265g8275g1d67g6ed4g33b1b8ceb252" version="1">You are descended from Fire Giants.</content>
+  <content contentuid="hf38a7234gaf66g6ccbg2ab3g7d7be9198c4a" version="1">You are descended from Frost Giants.</content>
+  <content contentuid="h3337ce37g01d1g8de8g5dd3g3e1494a0c316" version="1">You are descended from Hill Giants.</content>
+  <content contentuid="h6ac4b2b0gb903g97b5gf053gd0033014eada" version="1">You are descended from Stone Giants.</content>
+  <content contentuid="h8203d580g36f9gd88egce95ge94cd53db798" version="1">You are descended from Storm Giants.</content>
+  <content contentuid="hb1efcbdag7dc1g9367g4f13gc63544bd770f" version="1">Ancestral Boon</content>
+  <content contentuid="hef1fa001g3460g2889g5f57g38c8eb68b77b" version="1">You are descended from Giants.</content>
+  <content contentuid="h0681fe2age16cgc3aeg5917gb5e879cafa6b" version="1">RACES</content>
+  <content contentuid="hfb6c53afgb64bga5d3g0d62g412ae1fd1cad" version="1">CLASSES</content>
+  <content contentuid="h3c3c8490g9d2dg020dg945agc9908c2ed1c4" version="1">Fire's Burn</content>
+  <content contentuid="h96fd9ba7gdf03g5e66ge7dfg32fac8a22e0b" version="1">When you hit a deal damage to a target, you can also deal [1] to them.</content>
+  <content contentuid="hef9082bcg6773gcbcagc87bg75d4ef9bf1e4" version="1">Fire's Burn</content>
+  <content contentuid="h38a8b70cgf781gc827g0f69g3413707b36dd" version="2">When you deal damage to a target, you can also deal [1] to them.</content>
+  <content contentuid="h84592e70g1d40gebe9g9881g379899eae7ae" version="1">Frost's Chill</content>
+  <content contentuid="hb47d18f4g599bgdd13gc254g83e9e8ad0a4c" version="3">When you deal damage to a target, you can also deal [1] to them and reduce their &lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; by [2].</content>
+  <content contentuid="h17fb87e4gb5a0g35b2g3556g63bb466f45f7" version="1">Frost's Chill</content>
+  <content contentuid="h90597345g6879g4712g56dege75633b55c95" version="1">When you deal damage to a target, you can also deal [1] to them and reduce their &lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt;by [2].</content>
+  <content contentuid="h16db9145g28d3gaad0g7cc5g49e802c4da43" version="1">Frost's Chill</content>
+  <content contentuid="h96a4c7f7g8454g9f4bg5a87g3dc594f4ca1e" version="1">When you deal damage to a target, you can also deal [1] to them and reduce their &lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt;by [2].</content>
+  <content contentuid="h262d73c7g2533gc00bg1da2g16868dd46559" version="1">Hill's Tumble</content>
+  <content contentuid="h848be098g33e9g31adgf7b3gac671c19ce07" version="1">When you hit a deal damage to a target, you can also knock them &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+  <content contentuid="h6520a12cgd411g3b44gb3e2g8ebe291f1702" version="1">Storm's Thunder</content>
+  <content contentuid="h8f7215f0g9389g5397g2a12ge8cfec406ba4" version="1">When you take damage from a creature within [1], you can deal [2] to them.</content>
+  <content contentuid="hb5d3861cg5313g156ege662g19484802b158" version="1">Hill's Tumble</content>
+  <content contentuid="h172fc454g7c75g5035gbcd5g3e94c1ebcaf2" version="1">When you hit a deal damage to a target, you can also knock them &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+  <content contentuid="h32f7222dg188eg805fg1a10g05348c7b51e7" version="1">Storm's Thunder</content>
+  <content contentuid="h2ba72e88g4570gb0e1g281cg0ef6419ea741" version="1">When you take damage from a creature within [1], you can deal [2] to them.</content>
+  <content contentuid="he6416b08g4242g3f7cgaf64ge44d2d091736" version="1">Vulva C</content>
+  <content contentuid="h8af042deg71d5gd619g6264g2c8634c0a42a" version="1">Plucky Fable</content>
+  <content contentuid="hfa46f176g39f4ge899gc9b0g0d7fa0025800" version="1">Vulva C</content>
+  <content contentuid="h6681afa5g341agd128g54fcg920ada9fc8b4" version="1">Penis</content>
+  <content contentuid="hcf568f88g0c57g0e44g39cag70cf10a09c26" version="1">Default</content>
+  <content contentuid="h82236e7fg0430gcfa0gc326g519bd9f4ba32" version="1">Penis B</content>
+  <content contentuid="h83146908g2c0eg046eg7581g55cef3aef38c" version="1">Penis C</content>
+  <content contentuid="hd36058f9g90d6g0ad9g09efg647f75e03152" version="1">Penis D</content>
+  <content contentuid="h742334eeg08f8gc411g58f8gc38d6f76cc6d" version="1">Penis E</content>
+  <content contentuid="hf3fef524gd491gc061gaea3g50049d6d7dca" version="1">Vulva B</content>
+  <content contentuid="h605e40e9g004cg0d7dg8c79gc552ab909890" version="1">Default</content>
+  <content contentuid="h30a8fc46ga63bg2245gfcc8gf2036594880b" version="1">Vulva</content>
+  <content contentuid="h1a19dde5gdb34gce76gc18cgc96999de4551" version="1">Vulva</content>
+  <content contentuid="h1e68823dged4ag2c3egf1f7ga4102ac8fcf1" version="1">Penis D</content>
+  <content contentuid="hae585448ge46eg79d8g54b6g7e8ecaf2f0d6" version="1">Penis C</content>
+  <content contentuid="h87f4ff3bgccf5gbf0cgacb3gc1662307cf8e" version="1">Default</content>
+  <content contentuid="h470e6658ge78dg23d2geb18g6fe3cfd21547" version="1">Vulva B</content>
+  <content contentuid="he36747c0gf845gce8bg7968g11d2b57b5b01" version="1">Default</content>
+  <content contentuid="hea4251b2g02cbg2b93g5135g0345bea2969b" version="1">Penis B</content>
+  <content contentuid="h7576f0c7g3618g157bga017g1c83db3aa978" version="1">Penis</content>
+  <content contentuid="he7606c75geedcg3c64g8b58g520fecdcf1aa" version="1">Rapscallion</content>
+  <content contentuid="h0003d0abgb51dg04feg05b9gc10ba65de52b" version="1">Furled Wings</content>
+  <content contentuid="h7e2ecb4cg08e4ge18fg02cfgeee4ab90f9bf" version="1">Cauldron Foam</content>
+  <content contentuid="h0e71b994g9151gc382g304dgd09bb0ac17d7" version="1">Bohemian</content>
+  <content contentuid="h85c25c79g6e51gcd51gf390g02a13eaeddc0" version="1">Busy Promenade</content>
+  <content contentuid="h6e3d2304gadccge946gf072ga421cadc7455" version="1">Furled Wings</content>
+  <content contentuid="h2f1c8c90g9699gd3ccg517fgdd9d298a11b5" version="1">Languid Bandit</content>
+  <content contentuid="h94531e44gbd24g10a5g037fgd0e940b8afd6" version="1">Hubris</content>
+  <content contentuid="h97414c50g966ag070cgac3ag26e111bddfa3" version="1">Tidy Mohawk</content>
+  <content contentuid="h14f28e2dgf0b8gd8bcg9da4g34bed4f11854" version="1">Piranha Tooth Mohawk</content>
+  <content contentuid="hc23c69e8gf62ageb24g213bgd3210c26bc67" version="1">Topknot</content>
+  <content contentuid="he87e24a6g69aagfec5g3ce2ge1918e17eec7" version="1">Bruenor Braids</content>
+  <content contentuid="hfc680b15g4c21g5024gd115g78b83bfacafc" version="1">Partial Eclipse</content>
+  <content contentuid="hbf459e54g8693g7650gfd5bg85e72442d905" version="1">Foxtail</content>
+  <content contentuid="h29f07c03g8d9cg0ae9g9a87g12fd8ff3eefb" version="1">Arabel Ribbon</content>
+  <content contentuid="h7d0ce55cg9224gdef6g6352g312720ede0fe" version="1">Hubris</content>
+  <content contentuid="h60a61b58gf619g5371g4872ge29ce39dda29" version="1">Rapscallion</content>
+  <content contentuid="h387f7427g5814g69feg7604g99b75ae03f44" version="1">Languid Bandit</content>
+  <content contentuid="hd76d4b7fg7070g44e2g0c1bg0820670c51d0" version="1">Arabel Ribbon</content>
+  <content contentuid="h71591bf8g3950g83cfg56c6gfa041ba64e08" version="1">Topknot</content>
+  <content contentuid="h990b26a4gc0dege47ege229g37332f1340f3" version="1">Foxtail</content>
+  <content contentuid="hc39c8442g4d39g1735ged7bg96229dafa5a9" version="1">Partial Eclipse</content>
+  <content contentuid="h13418756ga11bgbfc8ga73cg6085007afc7c" version="1">Bruenor Braids</content>
+  <content contentuid="h352029b7gac1eg19dfgde35g67c197b365b8" version="1">Cauldron Foam</content>
+  <content contentuid="hd20ce8dbgbb2bgb223g0775g2b04fe068932" version="1">Piranha Tooth Mohawk</content>
+  <content contentuid="hff7a8ccbga310g118ag16dag4cf07b648476" version="1">Furled Wings</content>
+  <content contentuid="h2c26695fgefc1g75abg964fg50d20f06e2a9" version="1">Tidy Mohawk</content>
+  <content contentuid="h542f6c01g6e02gb549g1964g9dc59f78f2b4" version="1">Poppy Bud</content>
+  <content contentuid="ha777d31egbbaagb667gdf6dg10669b9b1a47" version="1">Plucky Fable</content>
+  <content contentuid="h27005431g8bc7g6606g1f3fgd58b111f1caf" version="1">Bohemian</content>
+  <content contentuid="h79cb5319gc913gb040g6971g19067508b1ad" version="1">Busy Promenade</content>
+  <content contentuid="h74730d80g1668g1f66g9320gfded0dd1e3ca" version="1">Head 10</content>
+  <content contentuid="h92086020ge7fdg1cb8g2313g26d9dd3dce2c" version="1">Head 9</content>
+  <content contentuid="h5cd01e33g1613gd9b5g7108gbc1ced8f4953" version="1">Head 8</content>
+  <content contentuid="he6e8ca23g6ec4ge538ge27dg7fefce6185a7" version="1">Head 7</content>
+  <content contentuid="h6cc4eda4gab27ga247gf59eg65f2f009a26d" version="1">Head 6</content>
+  <content contentuid="h03efd90ag9cc6gb9b2ga020g651a4e45f603" version="1">Head 3</content>
+  <content contentuid="hee3125bfg1decg2156g68dfg1a577713c61d" version="1">Head 5</content>
+  <content contentuid="h0a67bcbdgf8deg2ae1g14f5g6a6cae976504" version="1">Head 4</content>
+  <content contentuid="hb8e4db6bg51bdg7c91g61e9gc7b89c7625e8" version="1">Head 2</content>
+  <content contentuid="hf8d367f9g6457g5d70g27f0g86562190c1f4" version="1">Head 1</content>
+  <content contentuid="h9b332488g2ebdgb18bg100ag14f9716a6445" version="1">Head 7</content>
+  <content contentuid="h37a878cdg23e6gf1d3g1479ge10c37958a81" version="1">Head 6</content>
+  <content contentuid="h8c75e7beg6719gdfd4g7dd5g5456228627c6" version="1">Head 5</content>
+  <content contentuid="hbe99e7a9g8603g6288gbbbeg4bb8cb428e4e" version="1">Head 1</content>
+  <content contentuid="he58423e8gc738g9fafgdacfg250ecc1f5dbb" version="1">Head 2</content>
+  <content contentuid="hb7a6e6d9g598ag8a5fg2755gee364cf88fe2" version="1">Head 4</content>
+  <content contentuid="h783ccd33ge5b3g7126g498fg74b253948b3d" version="1">Head 3</content>
+  <content contentuid="h04f8c526gb86fg9553gb614g942d11bc0641" version="1">Head 1</content>
+  <content contentuid="h3ca6d34eg6c6bg91b5g5443gddbc0c7556e8" version="1">Head 2</content>
+  <content contentuid="hc98df015gfe26g1df8g0059g8d617bbec81d" version="1">Head 3</content>
+  <content contentuid="h83a104f0g7a26gd285g40c8ga5856d5a518a" version="1">Head 1</content>
+  <content contentuid="h512a39c8gc75dg8f01g2303g810f27b87280" version="1">Head 2</content>
+  <content contentuid="h25fbe8a6g2fd6g6776g442fge8ada89294a1" version="1">Vulva</content>
+  <content contentuid="h39f9df44g847fgc467g4d86gb70c6e1ecf03" version="1">Vulva B</content>
+  <content contentuid="h000724e0g9070g371dg2975gd93cddddffb4" version="1">Default</content>
+  <content contentuid="h51ab1448g3573g2a1bg4ad2gd02d24a3150a" version="1">Penis B</content>
+  <content contentuid="h7f89fec9g5d25geac7g5fbdgab35418993ed" version="1">Penis C</content>
+  <content contentuid="hec8bd083g7434g97c7gde80g30e889c7dad7" version="1">Penis D</content>
+  <content contentuid="h4df8766cg8809g3752gf5efgea518288ffe2" version="1">Penis D</content>
+  <content contentuid="h2786161agbc55g9ba3gfc50gc786b65a2d8a" version="1">Vulva</content>
+  <content contentuid="h5003fdb3g20f1g677dg12eeg1fffc5577374" version="1">Default</content>
+  <content contentuid="hfe5b82cfge004g8318g0f78g40958c45da3a" version="1">Penis B</content>
+  <content contentuid="hc52ec7e5g6b35gf50fg7667gcfe3adcf656c" version="1">Default</content>
+  <content contentuid="h6ae84c0egfdcbg3435g5bd4g4e3d9ba355f2" version="1">Penis C</content>
+  <content contentuid="h3abd92d9g92e7g79ebg3850g1867c0f37ca2" version="1">Penis</content>
+  <content contentuid="h4aa55013g36d5gc86bgeafcg4cbd6e3fc236" version="1">Vulva B</content>
+  <content contentuid="h0f177b84ge077g6a26g6465g3348aae590f8" version="1">Default</content>
+  <content contentuid="hce08d04dg668dg9aa3gb52dg308ac54e2bc5" version="1">Penis</content>
+  <content contentuid="hefa7552bge82egdcb5gbcbfg24e0566ab9bd" version="1">Plucky Fable</content>
+  <content contentuid="hb0ab9959g40aeg1a08g47e5gc4063f19768d" version="1">Plucky Fable</content>
+  <content contentuid="h89342a16g62d9ga700g42c0g1ea66bb3391f" version="1">Gorgon  </content>
+  <content contentuid="hec271cbcg273fg5081gebe1g9490c10cc40b" version="1">Carrion Feathers</content>
+  <content contentuid="h02ce3776gb062g4e36g3eacgae0eb7aeb793" version="1">Carrion Feathers</content>
+  <content contentuid="hfaa34096g577dg0c82gcf85gd22cda113e51" version="1">Gorgon  </content>
+  <content contentuid="hc893a8eeg45fag0b92g85e1g891dd07c62cc" version="1">Duster  </content>
+  <content contentuid="h98615cd0g1f53gc4c1ge506gd0cee7af33a4" version="1">Duster  </content>
+  <content contentuid="h62b2dda7g4bdag033eg322fgb49cb7ccefaa" version="1">Mythmaker </content>
+  <content contentuid="h0895bc53g3b0dg0dbfg768fg38e30d52dd96" version="1">Dryad  </content>
+  <content contentuid="hf65f248dg9cf1g1d7ag4b6bg7d372b6b6eb8" version="1">Dryad  </content>
+  <content contentuid="hecbc06bdg4198g52a2ga05cg0a6bafc3a31c" version="1">Mythmaker </content>
+  <content contentuid="h7dcacb7eg41a1g8c66gb251ga5009d8f5be7" version="1">Arabel Ribbon</content>
+  <content contentuid="h298edc86g0cf5gc64ag0768g951c93caed86" version="1">Arabel Ribbon</content>
+  <content contentuid="hea2e157cgc126g8f31gb526ge4561c1f5593" version="1">Languid Bandit </content>
+  <content contentuid="hf2cc7850g2017gb06bgb903gce4170bfdbde" version="2">Knave Braid</content>
+  <content contentuid="h55b2e174g9f5eg3a0ag6b6ag63de616582be" version="1">Languid Bandit   </content>
+  <content contentuid="h7b70324ag0d14g52f3g552cg93f7bdb7068f" version="1">Knave Braid</content>
+  <content contentuid="h2c9be555ge320g1317g6adeg5fcea283aad9" version="1">Dewdrop</content>
+  <content contentuid="h7005e5c6g1469g3cfbg975bge93ceaae87a3" version="1">Dewdrop</content>
+  <content contentuid="had5cc940g7625g2394g9372gb5000441d467" version="1">Derlusk Sojourn</content>
+  <content contentuid="hce3635eagc425g2a1eg47c7g73e2afd5f74f" version="1">Derlusk Sojourn</content>
+  <content contentuid="h0424831cg6999gda03g1eb7g4d07155a7b1f" version="1">Bohemian</content>
+  <content contentuid="h5b820c12g3233gf610g441eg5e079df91c8b" version="1">Bohemian</content>
+  <content contentuid="h93d8b872ge69bgb805g885agb0a2454130b3" version="1">Academy Dropout</content>
+  <content contentuid="h1b1a5a8fg8837g4272ge4dbgecd02d8f90b6" version="1">Academy Dropout</content>
+  <content contentuid="hffc96e14g2ac9gbabfg43aeg2c50cf2929d1" version="1">Topknot</content>
+  <content contentuid="h798d6977g336eg1effgc56age56cc214802a" version="1">Topknot</content>
+  <content contentuid="h6d974ed2gcdd1gc13eg4e07g1ffe23de3efd" version="1">Poppy Bud</content>
+  <content contentuid="h7cf89451gd186g68ecg8439gbc4fa7bb1ad4" version="1">Poppy Bud</content>
+  <content contentuid="hf089d3d1g1b74gfa8cg229bg936d17c6ca6a" version="1">Untied Parcel</content>
+  <content contentuid="h2bcf7dd4gca01g08f7g9f25g7defa41045bb" version="1">Untied Parcel</content>
+  <content contentuid="h474dfa4dg2f43g07aag34c3g4f5e1e8c13d8" version="1">Innkeep Braid </content>
+  <content contentuid="h9fb3bbddgf7c4gb3d0gbb3cg796bb33f3f43" version="1">Innkeep Braid </content>
+  <content contentuid="h89658865gd4f7gc0f2gad44g4c5fdbda1652" version="1">Chop Top</content>
+  <content contentuid="hc4b00294g0cb7g44fcg4c91g2a1990b062c1" version="1">Chop Top</content>
+  <content contentuid="hb726c7b0ga537g3ac8gd650g4996cfb30f41" version="1">Spider Fringe</content>
+  <content contentuid="h86547d04ge201g61c7g5b1bg27520ed20a90" version="1">Spider Fringe</content>
+  <content contentuid="h1732fe71g38ebgd8a9g7effgb3b97c850be2" version="1">Booyag</content>
+  <content contentuid="h6f2713c8g20beg5481g6959gdd52ae8622cd" version="1">Booyag</content>
+  <content contentuid="hafc10d51g9cccgc8c9gfaf2g745c7e997973" version="1">Splinters</content>
+  <content contentuid="hbd18299cg295ega187gf7e0g2728863bab04" version="1">Splinters</content>
+  <content contentuid="h16d29d3cg9027g3361g9fe1g873b97ebf97f" version="1">Fringe Redux</content>
+  <content contentuid="h865ec43fg647cg0369gf1c9gc1c23665ebf2" version="1">Fringe Redux</content>
+  <content contentuid="h7939552cgb5a2ga02eg648ag303d909d8f25" version="1">Long Hawk</content>
+  <content contentuid="h83705dc6g7343g5fa7gf96eg4c0521303fcb" version="1">Long Hawk</content>
+  <content contentuid="h922df4f4gcc24g677cgbc4fg6cded57ef84a" version="1">Serpent Crest</content>
+  <content contentuid="hba30be5bg793ag76d5gacbeg918b4d7eb339" version="1">Serpent Crest</content>
+  <content contentuid="hb05137f5g178dg180ag7604gf68ba77dc29e" version="1">Chop Redux</content>
+  <content contentuid="ha123d6a2g6001g899fg09ccge14a45d9f96e" version="1">Chop Redux</content>
+  <content contentuid="h15ff0177gd595g93e7gdb35gceeb932980ff" version="1">Braids</content>
+  <content contentuid="h8dd7729eg72f0g3e5bg8f26gd8fbeb5b5270" version="1">Goblin Knot</content>
+  <content contentuid="ha32b4ac1gbd42g08ebgd37bg20985dc93465" version="1">Goblin Knot</content>
+  <content contentuid="hdeb1e2a1g2d67g1dd9g4619g01c431b8bdaf" version="1">Braids</content>
+  <content contentuid="hee2fb82bgadf5g608fg24ebg2a5c2e292aa7" version="5">Goblin</content>
+  <content contentuid="hc89258c2g4176g3adfg1f1fg0c0227c3036a" version="5">Goblin</content>
+  <content contentuid="h19323ed6g6456g103dg6d0cg84f2af04a775" version="5">Goliath</content>
+  <content contentuid="h98c2b3d2ge7bcg17d8g3300g0f38c78ea149" version="1">As a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Bonus Action&lt;/LSTag&gt;, you can teleport up to [1] to an unoccupied space.</content>
+  <content contentuid="h94ef03f0g9d70gfdcdg725eg629107e62017" version="1">Fire's Burn</content>
+  <content contentuid="ha2047e46g8b21g4526g1e41g1230865b5a51" version="1">When you deal damage to a target, you can also deal DealDamage(1d10,Fire) to them.</content>
+  <content contentuid="h00723564g15e3g4736gd0ebg7c4efc4d02ef" version="1">Cloud's Jaunt</content>
+  <content contentuid="h9ff3deb0gbfcdg7169gbe04gc8791429b27f" version="1">As a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Bonus Action&lt;/LSTag&gt;, you can teleport up to Distance(9) to an unoccupied space.</content>
+  <content contentuid="h447bd9c3g7f18gad2fga2d9g7480599d1f1e" version="1">Stone's Endurance</content>
+  <content contentuid="h84498760gdd72ga492g8ae7g4224e4a40a14" version="1">You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll 1d12 + Constitution modifier to the number rolled and reduce the damage by that total. After you use this trait, you can’t use it again until you finish long rest.</content>
+  <content contentuid="ha4e92388g479dga056g9457gf58d74f104f2" version="1">Hill's Tumble</content>
+  <content contentuid="h4891bb76g3674g925cg86e6gffcc9f61b19f" version="1">Frost's Chill</content>
+  <content contentuid="h1eea4340gccf0g98f0g0bfcgf73d364a99a3" version="2">When you deal damage to a target, you can also deal [1] to them and reduce their &lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt;by [2].</content>
+  <content contentuid="haaec3f97g48d9g50ccg37fagcbe8178fa9d7" version="1">Storm's Thunder</content>
+  <content contentuid="h22d6f32bgf7d7gc2bagaf43g56c21c505088" version="1">When you take damage from a creature within Distance(18), you can deal DealDamage(1d8,Thunder) to them.</content>
+  <content contentuid="h5e46cfcag2523ga4a8g8b82g82b660506510" version="1">When you hit a deal damage to a target, you can also knock them &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+  <content contentuid="hf1b794f9g29c2ge239gccbcgc9f1c2cd3bb1" version="1">Cauldron Foam</content>
+  <content contentuid="hbd48bbecg7d8eg0520g7881g4308716cca98" version="1">Cauldron Foam</content>
+  <content contentuid="hf97d7fe4g2955g23b6g97dag918dc84c7cbe" version="1">Default</content>
+  <content contentuid="ha772e488g6172g2fa3ga940gefdc632dcd53" version="1">Default</content>
+  <content contentuid="h33153f9bg8dd8g7a61ge57fgc3ee4f452b31" version="1">Cloud's Jaunt</content>
+  <content contentuid="h4c2a152fg426cg08e9ge9f2g4aa987d4421d" version="1">Head 11</content>
+  <content contentuid="h2a8a26f2g540fga63bg332dg57edb440db7b" version="1">Wolf Piercings</content>
+  <content contentuid="h364946ecgdc6ege1c6ga2c7gabc3b8e78875" version="1">Grit</content>
+  <content contentuid="h4c3331eagb33dg4685ge957gf333bb9a7a33" version="1">You have &lt;LSTag Tooltip="Resistant"&gt;resistance&lt;/LSTag&gt; to fire damage and psychic damage. In addition, when you are wearing no armor, your AC is equal to 11 + your Dexterity modifier.</content>
+  <content contentuid="hf8878c8eg7494gb0e1g38a9g82fca9ed843d" version="1">Grit</content>
+  <content contentuid="h75226a3eg70b9g64c7gf3aag63b69dcbd669" version="1">You have &lt;LSTag Tooltip="Resistant"&gt;resistance&lt;/LSTag&gt; to fire damage and psychic damage. In addition, when you are wearing no armor, your AC is equal to 11 + your Dexterity modifier.</content>
+</contentList>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Glacial Native"/>
+                    <attribute id="Passives" type="LSString" value="GlacialNative"/>
+                    <attribute id="UUID" type="guid" value="4b8f90eb-b7b1-4f81-ae17-a6e9461184f4"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Stone Defense"/>
+                    <attribute id="Passives" type="LSString" value="StoneDefense"/>
+                    <attribute id="UUID" type="guid" value="ab887d2d-a553-4b15-8c1c-c97a55eb314f"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Unarmoured Defense"/>
+                    <attribute id="Passives" type="LSString" value="UnarmouredDefence_HillGiant"/>
+                    <attribute id="UUID" type="guid" value="02419791-7646-4c88-874a-be6c8bad9fe5"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Grit"/>
+                    <attribute id="Passives" type="LSString" value="Grit"/>
+                    <attribute id="UUID" type="guid" value="1955caaa-e88a-4b58-b586-bb13bb4f87e7"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Stone Endurance"/>
+                    <attribute id="Passives" type="LSString" value="Stone_Endurance"/>
+                    <attribute id="UUID" type="guid" value="4c250bea-ac82-4201-ae24-eb56a7f88688"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Fire Burn"/>
+                    <attribute id="Passives" type="LSString" value="Fire_Burn"/>
+                    <attribute id="UUID" type="guid" value="93f925c4-982f-4e50-8693-f918fd4af57e"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Frost Chill"/>
+                    <attribute id="Passives" type="LSString" value="Frost_Chill"/>
+                    <attribute id="UUID" type="guid" value="9d24a01e-90c2-4def-be93-b3b86e4969df"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Hill Tumble"/>
+                    <attribute id="Passives" type="LSString" value="Hill_Tumble"/>
+                    <attribute id="UUID" type="guid" value="aef29f64-e030-4f5f-999e-1cf9892738dc"/>
+                </node>
+                <node id="PassiveList">
+                    <attribute id="Name" type="FixedString" value="Storm Thunder"/>
+                    <attribute id="Passives" type="LSString" value="Storm_Thunder"/>
+                    <attribute id="UUID" type="guid" value="ddd0c1b6-55e7-4cd9-acda-9e9f62ba24b5"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="CharacterCreationAccessorySets">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationAccessorySet">
+                    <attribute id="CharacterCreationSet" type="bool" value="false"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h2a8a26f2g540fga63bg332dg57edb440db7b" version="1"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Piercing"/>
+                    <attribute id="UUID" type="guid" value="793e6211-0d8d-43ec-8b92-da507a983d54"/>
+                    <children>
+                        <node id="VisualUUIDs">
+                            <attribute id="Object" type="guid" value="7f3360fb-964e-4139-9f65-9ca4ad40645d"/>
+                        </node>
+                        <node id="VisualUUIDs">
+                            <attribute id="Object" type="guid" value="7defc0f0-f507-4e48-bdf5-85a29abf4b25"/>
+                        </node>
+                        <node id="VisualUUIDs">
+                            <attribute id="Object" type="guid" value="48301130-b6f9-43b0-aa02-8ba75a0cec70"/>
+                        </node>
+                        <node id="VisualUUIDs">
+                            <attribute id="Object" type="guid" value="6945b960-e04b-4998-886e-c48840021f11"/>
+                        </node>
+                        <node id="VisualUUIDs">
+                            <attribute id="Object" type="guid" value="d7985693-b7aa-47f1-9aaf-3b257b350b72"/>
+                        </node>
+                        <node id="VisualUUIDs">
+                            <attribute id="Object" type="guid" value="ddad9354-bc90-462e-a081-180aa8ada9f2"/>
+                        </node>
+                        <node id="VisualUUIDs">
+                            <attribute id="Object" type="guid" value="73f8dd59-6094-4f88-987d-2642a24886a0"/>
+                        </node>
+                        <node id="VisualUUIDs">
+                            <attribute id="Object" type="guid" value="6283b3df-da31-4726-9e27-e810b3847629"/>
+                        </node>
+                        <node id="VisualUUIDs">
+                            <attribute id="Object" type="guid" value="d3b6144f-562f-44e8-9172-acccd556ed64"/>
+                        </node>
+                        <node id="VisualUUIDs">
+                            <attribute id="Object" type="guid" value="1fa9c750-77a9-47fa-b792-9b532a58981d"/>
+                        </node>
+                        <node id="VisualUUIDs">
+                            <attribute id="Object" type="guid" value="528dd020-5a5a-470d-aa56-1e1f7df7f2f8"/>
+                        </node>
+                        <node id="VisualUUIDs">
+                            <attribute id="Object" type="guid" value="1db12eb4-bc89-46c4-9313-8a7e84bb3216"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

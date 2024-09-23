@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="11fa382c-a1d2-45ba-913c-b13062365ce8">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4b8f90eb-b7b1-4f81-ae17-a6e9461184f4" />
+        <field name="Name" type="NameTableFieldDefinition" value="Glacial Native" />
+        <field name="Passives" type="StringTableFieldDefinition" value="GlacialNative" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ab887d2d-a553-4b15-8c1c-c97a55eb314f" />
+        <field name="Name" type="NameTableFieldDefinition" value="Stone Defense" />
+        <field name="Passives" type="StringTableFieldDefinition" value="StoneDefense" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="02419791-7646-4c88-874a-be6c8bad9fe5" />
+        <field name="Name" type="NameTableFieldDefinition" value="Unarmoured Defense" />
+        <field name="Passives" type="StringTableFieldDefinition" value="UnarmouredDefence_HillGiant" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1955caaa-e88a-4b58-b586-bb13bb4f87e7" />
+        <field name="Name" type="NameTableFieldDefinition" value="Grit" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Grit" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4c250bea-ac82-4201-ae24-eb56a7f88688" />
+        <field name="Name" type="NameTableFieldDefinition" value="Stone Endurance" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Stone_Endurance" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="93f925c4-982f-4e50-8693-f918fd4af57e" />
+        <field name="Name" type="NameTableFieldDefinition" value="Fire Burn" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Fire_Burn" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9d24a01e-90c2-4def-be93-b3b86e4969df" />
+        <field name="Name" type="NameTableFieldDefinition" value="Frost Chill" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Frost_Chill" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="aef29f64-e030-4f5f-999e-1cf9892738dc" />
+        <field name="Name" type="NameTableFieldDefinition" value="Hill Tumble" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Hill_Tumble" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ddd0c1b6-55e7-4cd9-acda-9e9f62ba24b5" />
+        <field name="Name" type="NameTableFieldDefinition" value="Storm Thunder" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Storm_Thunder" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

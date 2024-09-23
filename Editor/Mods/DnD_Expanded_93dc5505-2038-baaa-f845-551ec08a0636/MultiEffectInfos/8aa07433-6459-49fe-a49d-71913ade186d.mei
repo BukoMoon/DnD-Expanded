@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MultiEffectInfos UUID="8aa07433-6459-49fe-a49d-71913ade186d" OwnerUUID="9e99e614-7ede-4f10-bd4e-d165e50f6bc3" Name="STONE_ENDURANCE_StatusEffect">
+  <EffectInfo UUID="25dabf2e-00e5-4358-8b9e-3e9d50783c03" EffectResourceGuid="20d10983-b22f-c495-18f2-a5b61cdaba23" DetachSource="false" DetachTarget="false" KeepRotation="false" UseOrientDirection="false" UseDistance="false" UseScaleOverride="false" KeepScale="true" MainHand="false" OffHand="false" MinDistance="0" MaxDistance="0" BindSourceTo="SourceEntity" BindTargetTo="TargetEntity" Pivot="Target" Enabled="true" DamageType="None" VerbalIntent="None" TargetBone="Dummy_BodyFX" SourceCheckEquipmentTagConditions="true" TargetCheckEquipmentTagConditions="true" />
+</MultiEffectInfos>

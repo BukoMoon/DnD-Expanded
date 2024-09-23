@@ -1,0 +1,11 @@
+new entry "WPN_Halberd_Kale"
+type "Weapon"
+using "WPN_Halberd_2"
+data "RootTemplate" "9c745c02-dcec-423b-a5d5-f678a8d52104"
+data "ValueUUID" "d24c441f-7ebe-4229-8522-cf34c257ff20"
+data "Rarity" "Legendary"
+data "GameSize" "Large"
+data "DefaultBoosts" "WeaponEnchantment(3);WeaponProperty(Magical);WeaponDamage(1d4, Bludgeoning);WeaponDamage(2,Slashing);WeaponDamage(1d8,Lightning)"
+data "PassivesOnEquip" "ImprovedCritical"
+data "Unique" "1"
+

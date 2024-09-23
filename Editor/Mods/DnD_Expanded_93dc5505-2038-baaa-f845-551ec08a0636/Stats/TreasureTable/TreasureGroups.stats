@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="ce43e3a7-cc99-421a-b558-8085769f3d10">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c222232e-f6f7-47bb-91d5-9fbc4c9e9047" />
+        <field name="Name" type="NameTableFieldDefinition" value="GnomePedller" />
+        <field name="TreasureGroup" type="StringTableFieldDefinition" value="Gnome_Peddler" />
+        <field name="WeaponTreasureGroup" type="StringTableFieldDefinition" value="Gnome_Weapon_Treasure" />
+        <field name="ArmorTreasureGroup" type="StringTableFieldDefinition" value="Clothes_Medium_Random_Supply" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
