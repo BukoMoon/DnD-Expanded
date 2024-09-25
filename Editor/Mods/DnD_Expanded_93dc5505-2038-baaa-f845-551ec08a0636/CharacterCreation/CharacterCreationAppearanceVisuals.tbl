@@ -499,7 +499,7 @@
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="c778b369-64d8-5a15-4898-05da30865151" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="cb51bc2e-86a2-8f1c-5d84-34623e0005ad" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbe99e7a9g8603g6288gbbbeg4bb8cb428e4e" version="1" />
         <field name="DefaultSkinColor" type="GuidTableFieldDefinition" value="610d51f0-2752-4d08-afb3-799f09013c7f" />
         <field name="Comment" type="CommentTableFieldDefinition" value="HUM_MS_Head_A" />
@@ -527,7 +527,7 @@
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="23d08caf-f88d-0457-6253-8059fdf027d3" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="db9427a7-6c81-aff6-43d1-0ebff5cc8bca" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h783ccd33ge5b3g7126g498fg74b253948b3d" version="1" />
         <field name="DefaultSkinColor" type="GuidTableFieldDefinition" value="610d51f0-2752-4d08-afb3-799f09013c7f" />
         <field name="Comment" type="CommentTableFieldDefinition" value="HUM_MS_Head_C" />
@@ -541,7 +541,7 @@
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="fbfbdac7-b88b-840d-2601-e37aa45663ae" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="b6842052-b8ee-adf5-8724-9f7ef767a17a" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb7a6e6d9g598ag8a5fg2755gee364cf88fe2" version="1" />
         <field name="DefaultSkinColor" type="GuidTableFieldDefinition" value="610d51f0-2752-4d08-afb3-799f09013c7f" />
         <field name="Comment" type="CommentTableFieldDefinition" value="HUM_MS_Head_D" />
@@ -555,7 +555,7 @@
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="4035cc8a-6c20-f6de-040c-7f0edd5ac29b" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="61e421cb-96d7-4801-47ae-b1f21151a170" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8c75e7beg6719gdfd4g7dd5g5456228627c6" version="1" />
         <field name="DefaultSkinColor" type="GuidTableFieldDefinition" value="610d51f0-2752-4d08-afb3-799f09013c7f" />
         <field name="Comment" type="CommentTableFieldDefinition" value="HUM_MS_Head_F" />
@@ -569,7 +569,7 @@
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="a1e94908-bf85-7e28-3696-85e254349d01" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="1da85126-9c03-1613-5509-c63a1f06c734" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h37a878cdg23e6gf1d3g1479ge10c37958a81" version="1" />
         <field name="DefaultSkinColor" type="GuidTableFieldDefinition" value="610d51f0-2752-4d08-afb3-799f09013c7f" />
         <field name="Comment" type="CommentTableFieldDefinition" value="HUM_MS_Head_G" />
@@ -583,7 +583,7 @@
         <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
         <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="f959db91-6da4-191f-279f-02f8c04dae21" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="616753a1-1d1e-717a-51b0-f455b2477aeb" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9b332488g2ebdgb18bg100ag14f9716a6445" version="1" />
         <field name="DefaultSkinColor" type="GuidTableFieldDefinition" value="610d51f0-2752-4d08-afb3-799f09013c7f" />
         <field name="Comment" type="CommentTableFieldDefinition" value="HUM_MS_Head_H" />
@@ -727,20 +727,6 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h74730d80g1668g1f66g9320gfded0dd1e3ca" version="1" />
         <field name="DefaultSkinColor" type="GuidTableFieldDefinition" value="610d51f0-2752-4d08-afb3-799f09013c7f" />
         <field name="Comment" type="CommentTableFieldDefinition" value="HUM_FS_Head_K" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_275" />
-        <field name="UUID" type="IdTableFieldDefinition" value="134b704e-b1a5-43af-9eb0-c57d4c90e215" />
-        <field name="RaceUUID" type="GuidTableFieldDefinition" value="987b544e-94c1-4c6d-9168-be3a044b6ef3" />
-        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
-        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
-        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Head" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
-        <field name="VisualResource" type="GuidTableFieldDefinition" value="9115a954-e08e-8813-30b2-d66bbf93532e" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4c2a152fg426cg08e9ge9f2g4aa987d4421d" version="1" />
-        <field name="DefaultSkinColor" type="GuidTableFieldDefinition" value="610d51f0-2752-4d08-afb3-799f09013c7f" />
-        <field name="Comment" type="CommentTableFieldDefinition" value="HUM_FS_NKD_HEAD_C" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
